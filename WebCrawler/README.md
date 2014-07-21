@@ -1,4 +1,4 @@
-This is the Unix application to run a custimized version of Apache Nutch Web Crawler (http://nutch.apache.org/). Simply decompress the ZIP file into a directory in your filesystem and use the scripts in the "application" directory. 
+This is the Unix application to run a custimized version of Apache Nutch Web Crawler (http://nutch.apache.org/). Simply decompress the TAR.GZ file into a directory in your filesystem and use the scripts in the "application" directory. 
 There are some scripts:
 
 - crawler_exec.sh: to execute the crawler. It requires the depth, an output directory, and the directory with the files containing URLs from where starting the crawling
