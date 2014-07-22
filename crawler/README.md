@@ -1,9 +1,7 @@
-This is the Unix application to run a custimized version of Apache Nutch Web Crawler (http://nutch.apache.org/). Simply decompress the ZIP file into a directory in your filesystem and use the scripts in the "application" directory. 
-There are some scripts:
+This is the Unix application to run a custimized version of Apache Nutch Web Crawler (http://nutch.apache.org/). Simply use the scripts in the "application" directory:
 
-- crawler_exec.sh: to execute the crawler. It requires the depth, an output directory, and the directory with the files containing URLs from where starting the crawling
-	./crawler_exec.sh 5 ../work/output ../work/urls/
+- crawler_exec.sh: to execute the crawler. It requires three parameters: the depth of the crawling, an output directory path where to store discovered URLs, and the path to the directory with the files containing URLs from where starting the crawling. As an example: `` `./crawler_exec.sh 5 ../work/output ../work/urls/` ``
 	
 - start.sh: a script to demonize crawler_exec.sh, in order to allow you to close the command line window and let the application running. It needs to be configured to change locations.
 
-The output of this application can be used as input for the agrotagger.
+The output file of this application can be used as input for the agrotagger.
