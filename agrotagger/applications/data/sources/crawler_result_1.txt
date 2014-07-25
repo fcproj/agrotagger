@@ -1,7 +1,0 @@
-URL:: http:/
-URL:: http://131.220.45.179/ojs/index.php/fsd
-  outlink: toUrl: http://131.220.45.179/ojs/index.php/fsd/information/readers anchor: For Readers
-  outlink: toUrl: http://131.220.45.179/ojs/index.php/fsd/information/authors anchor: For Authors
-  outlink: toUrl: http://131.220.45.179/ojs/index.php/fsd/information/librarians anchor: For Librarians
-  outlink: toUrl: http://131.220.45.179/ojs/index.php/fsd/issue/archive anchor: By Issue
-URL:: http://2010.morris.umn.edu/docs/UMM_Historic_Preservation_Plan.pdf
