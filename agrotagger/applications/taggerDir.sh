@@ -4,8 +4,7 @@
 # Parameters: input_directory_path; output_directory; download_mode
 # Usage: ./tagger.sh data/sources/ data/documents nutchOutput rdfnt
 #
-# Optional parameter: output_filename (even without file extension)
-# Usage: ./tagger.sh data/sources/ data/documents listURL rdfnt myoutput
+# Optional parameter: output_filename unusable, otherwise all output files have the same name
 
 if [ $# -lt 4 ]  # number of arguments passed to script
 then
@@ -21,16 +20,8 @@ else
 	echo $file
     	java -classpath ".:../lib/*" -Xss64M -Xmx2048M org.fao.oekc.autotagger.main.DownloadFiles $file $2 $3
     	java -classpath ".:../lib/*" -Xss64M -Xmx2048M org.fao.oekc.autotagger.main.MauiAutoTaggerKey $2
-    	if [ $# -eq 5 ]
-    	then
-    		java -classpath ".:../lib/*" -Xss64M -Xmx2048M org.fao.oekc.autotagger.main.ProduceMappingTable $file $2 $4 $5
-   		else
-    		java -classpath ".:../lib/*" -Xss64M -Xmx2048M org.fao.oekc.autotagger.main.ProduceMappingTable $file $2 $4
-    	fi
+    	java -classpath ".:../lib/*" -Xss64M -Xmx2048M org.fao.oekc.autotagger.main.ProduceMappingTable $file $2 $4
     done
 fi
 
 exit
-
-
-
