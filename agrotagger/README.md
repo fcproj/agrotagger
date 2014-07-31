@@ -8,4 +8,6 @@ Example: ``./tagger.sh data/sources/list_urls.txt data/documents listURL rdfnt m
 - *taggerDir.sh*: works as the previous one, but the first parameter is the path to a directory containing some input files.  
 Example: ``./taggerDir.sh ../work/splitted ../work/output nutchOutput rdfnt``
 	
-- *start.sh*: a script to demonize *taggerDir.sh*, in order to allow you to close the command line window and let the application running. It needs to be configured to change locations.
+- *start.sh*: a script to demonize *taggerDir.sh*, in order to allow you to close the command line window and let the application running. It needs to be configured to change locations.  
+
+*Requirements*: the application needs at least Java 7 to work properly.
