@@ -12,4 +12,4 @@ Some information about the folders in the code:
 - *agrotagger*: the Unix application to run the agrotagger.
 - *crawler*:  the Unix application to run a custimized version of Apache Nutch Web Crawler (http://nutch.apache.org/). This application can produce an input file for the agrotagger.
   
-**Requirements**: the *agrotagger* application needs at least Java 7 to work properly.
+**Requirements**: the *agrotagger* application needs at least Java 6 to work properly.
