@@ -6,8 +6,6 @@ There is also the possibility to express, as optional parameter, the name of the
 Example: ``./tagger.sh data/sources/list_urls.txt data/documents listURL rdfnt myoutput``  
 
 - *taggerDir.sh*: works as the previous one, but the first parameter is the path to a directory containing some input files.  
-Example: ``./taggerDir.sh ../work/splitted ../work/output nutchOutput rdfnt``
-	
-- *start.sh*: a script to demonize *taggerDir.sh*, in order to allow you to close the command line window and let the application running. It needs to be configured to change locations.  
+Example: ``./taggerDir.sh ../work/splitted ../work/output nutchOutput rdfnt``  
 
 **Requirements**: the application needs at least Java 6 to work properly.
