@@ -1,6 +1,7 @@
 This is tha Java code, together with some the bash scripts to run the agrotagger. Simply use the scripts in the "application" directory:
 
-- *tagger.sh*: it needs 4 mandatory parameters: the path to a file with a list of URLs (or the output of a webcrawler), the path to the output directory where to store results, the type of the input file ("listURL" or "nutchOutput"), and the type of the output (currently only "rdfnt" is supported).  
+**tagger.sh**  
+It needs 4 mandatory parameters: the path to a file with a list of URLs (or the output of a webcrawler), the path to the output directory where to store results, the type of the input file ("listURL" or "nutchOutput"), and the type of the output (currently only "rdfnt" is supported).  
 Example: ``./tagger.sh data/sources/crawler_result.txt data/documents nutchOutput rdfnt``  
   
 There is also the possibility to express, as optional parameter, the name of the output file. Currently, the output file is a tar.gz file, but you don't need to define the extension, the system will automatically add the suffix .tar.gz to the filename.  
@@ -12,7 +13,11 @@ Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rd
 In this last scenario, the fifth parameter (output_filename) can be null.  
 Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt null new_agrovoc_name my_model``
 
-- *taggerDir.sh*: works as the previous one, but the first parameter is the path to a directory containing some input files.  
+**taggerDir.sh**  
+It works as the previous one, but the first parameter is the path to a directory containing some input files.  
 Example: ``./taggerDir.sh ../work/splitted ../work/output nutchOutput rdfnt``  
+  
+From v1.2.1, there is the possibility to express a fifth and a sixth parameter: newAgrovocName; modelName
+Example: ``./taggerDir.sh data/sources/ data/documents listURL myoutput newAgrovocName modelName``
 
 **Requirements**: the application needs at least Java 6 to work properly.
