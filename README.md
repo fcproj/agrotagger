@@ -1,7 +1,7 @@
 agrotagger
 ==========
 
-This application allows to index Web documents, creating RDF triples that link a Web URL to some AGROVOC URIs (http://aims.fao.org/standards/agrovoc/about). Currently, the tagging application is based on MAUI (https://code.google.com/p/maui-indexer/) and it uses as default AGROVOC in English. Anyway, the package contains also AGROVOC in French and Spanish.
+This application allows to index Web documents, creating RDF triples that link a Web URL to some AGROVOC URIs (http://aims.fao.org/standards/agrovoc/about). Currently, the tagging application is based on MAUI (https://code.google.com/p/maui-indexer/) and it uses as default AGROVOC in English. 
 
 Web documents to be indexed can be passed to the application through a file containing a list of URLs, or through a file containing the output of an Apache Nutch Web Crawler.
 
