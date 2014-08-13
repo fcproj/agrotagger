@@ -1,0 +1,1232 @@
+s P5- Z29S6
+POLICY RESEARCH WORKING PAPER 2296
+An Ecological and How location, natural
+resources, and different
+F[istorical Perspective policies toward the elite'sAgricultural Development preemption of unused land
+on Agrtc tura .Jevelopment 5shaped the historical
+ini Southeast Asia development of different
+agrarian structures across
+Southeast Asia, conditioning
+Yuiiro Hayami agricultural growth
+performance until today
+The World Bank
+Development Research Group
+Rural Development H
+March 2000
+Pu
+bl
+ic 
+Di
+sc
+lo
+su
+re
+ A
+ut
+ho
+riz
+ed
+Pu
+bl
+ic 
+Di
+sc
+lo
+su
+re
+ A
+ut
+ho
+riz
+ed
+Pu
+bl
+ic 
+Di
+sc
+lo
+su
+re
+ A
+ut
+ho
+riz
+ed
+Pu
+bl
+ic 
+Di
+sc
+lo
+su
+re
+ A
+ut
+ho
+riz
+ed
+POLICY RESEARCH WORKING PAPER 2296
+Summary findings
+According to Myint's "vent-for-surplus" theory, unused land. Under Spanish colonialism, the elite
+development of the economies of Indonesia, the preempted unused land in the Philippines wholesale,
+Philippines, and Thailand from the nineteenth century bifurcating land distribution between noncultivating
+on took natural advantage of large tracts of unused landlords and sharecroppers in lowland rice areas, and
+"empty land" with low population density and abundant between plantation owners and wvage laborers in upland
+natural resources of the type typically found in Southeast areas. In i'ndonesia, the Dutch government granted long-
+Asia and Africa at the outset of Western colonization. term leases for uncultivated public land to foreign
+When these economies were integrated into international planters, but prevented alienation of cultivated land from
+trade, hitherto unused natural resources (primary native peasants, to avoid social instability.
+commodities the indigenous people had not valued) In Thailand, concessions were granted for private canal
+became the source of economic development, building, but the independent kingdom preserved the
+commanding market value because of high import tradition of giving land to anyone who could open and
+demand in Western economies. cultivate it. Relatively homogeneous land-owning
+The major delta of Chao Phraya River was the peasants dominated Thailand's rural sector.
+resource base of vent-for-surplus development with rice As frontiers for new cultivatioti closed, the plantation
+in Thailand; tropical rain forests filled that role in system's initial advantage (large-scale development of
+Indonesia and the Philippines with respect to the land and infrastructure) began to be outweighed by its
+production of tropical cash crops. This basic difference need to monitor hired labor. The peasant system, based
+underlay differences in distribution of farm size: the on family labor needing no supervision, allowed
+unimodal distribution of peasants or family farms in Thailand's share of the world market in tropical cash
+Thailand and the coexistence of peasants and large estate crops to grow, as Indonesia and the Philippines lost their
+farms or plantations specializing in tropical export crops traditional comparative advantage. Moreover, land
+in Indonesia and the Philippines. reform in the Philippines made land markets inactive,
+Differences in agrarian development were also shaped with resulting distortions in resource allocation and
+by different policies toward the elite's preemption of serious underinvestment in agriculture.
+This paper - a product of Rural Development, Development Research Group - is part of a larger effort in the group to
+review rural development in Asian countries. Copies of the paper are available free from the World Bank, 1818 H Street
+NW, Washington, DC 20433. Please contact Pauline Kokila, room MC3-510, telephone 202-473-3716, fax 202-522-
+1151, email address pkokila(aworldbank.org. Policy Research Working Papers are also posted on the Web at
+wwAw.worldbank.org/research/workingpapers. The author may be contacted at hayami(asipeb.aovama.ac.jp. March 2000.
+(38 pages)
+The Policy Research Working Paper Series dissemninates the findings of work in progress to encourage the exchange of ideas about
+development issues. An objective of the series is to get the findings out quickly, even if the presentations are less than fully polished. The
+papers carry the names of the authors and should be cited accordingly. The findings, interpretations, and conclusions expressed in this
+I paper are entirely those of the authors. They do not necessarily represent he view of the World Bank, its Executive Directors, or the
+countries they represent.
+Produced by the Policy Research Dissemination Center
+An Ecological and Historical Perspective on Agricultural Development in
+Southeast Asia*
+Yujiro Hayami* *
+Aoyama-Gakuin University, SIPEB, Tokyo 150-8366
+Prepared for World Bank DECRG
+* Helpful comments from Takamasa Akiyama, Robert Allen, Gershon Feder and Yair Mundlak as
+well as technical assistance from Kei Kajisa and Yue Yaguchi are gratefully acknowledged.
+** E-mail: havanij(?sipeb.aovarniac.qIp
+
+An Ecological and Historical Perspective on Rural Sector Development in
+Southeast Asia
+1. Introduction
+Since the outbreak of the financial crisis in Thailand in July 1997, optimism has given way
+lo pessimism on the development prospect of Southeast Asian economies. Yet, the fact
+remains that several economies in this region achieved extraordinarily high growth rates in
+about four decades prior to the crisis. It is generally agreed upon that their high development
+performance was supported by the success of agricultural modernization, popularly called the
+" Green Revolution." It has recently become evident, however, that the potential of Green-
+Revolution technology to increase food output has been exhausting with the result of an
+emergence of a serious rice shortage in Indonesia, for example, at the very moment of the
+recent economic crisis (Pingali, Hossain and Gerpacio 1997). For the past high-performing
+c conomies in Southeast Asia to return to the track of sustaLined growth, it is necessary to
+c,esign policies to revitalize agriculture based on the positive analysis of its past success and
+failure. Such a policy-oriented analysis will produce useful lessons to other developing
+r.gions. To be useful, however, the analysis on current developments must be based on the
+faill grasp of environrmental differences across major ecological zones within Southeast Asia
+as well as unique historical paths of Southeast Asian economies since their integration with
+the Western world. This paper aims to outline such an ecological and historical perspective.
+In my perspective Southeast Asia can be classified into two major ecological zones: (a) the
+continental part including Thailand, Vietnam and Myanmar and (b) the insular and peninsular
+part (henceforth abbreviated as " the insular part") including Indonesia, Malaysia and the
+Philippines. The former was characterized, among others, by major river deltas and the latter
+by tropical rain forests. Before the 1 860s when new transportation technology integrated this
+region with the rapidly industrializing West, people in Southeast Asia lived on wet rice
+p roduction in small valleys or shifting cultivation in upland forests. Much of major deltas and
+thick rain forests were then unused for agricultural production. When this region was faced
+3
+with growing demands from the West for tropical products, these unused land became the
+basis of" vent-for -surplus " growth, with deltas converted into paddyfields for commercial
+rice production and rain forests converted to plantations for export cash crops.
+Corresponding to different natures of production by crop, deltas continued to be dominated
+by peasants or small family farms, while insular /peninsular areas were bifurcated between
+peasants cultivating rice in small valleys and coastal plains on the one hand and large
+plantations based on hired labor on the other. The different agrarian organizations were rooted
+significantly in different ecological conditions. Equally significant were differences in land
+policy across different political regimes. For example, the distribution of land ownership
+became far more skewed in the Philippines under Spanish colonialism than in Indonesia under
+Dutch colonialism, despite their both belonging to the insular part. Such differences in the
+agrarian structure, which were formed along different historical paths under different
+ecological conditions have had far-reaching influences on the performances of agricultural
+development across Southeast Asia. This is the aspect that I intend to focus on in this paper.
+While recognizing several important variables other than agrarian structure, including
+government policies, in determining agricultural development perforrnance, the possibility
+should not be neglected that the present policy choice may be significantly influenced by the
+historical path in the formation of agrarian structure.
+Following this introduction, Section 2 outlines the characteristics of resource endowments,
+agrarian structures, growths in aggregate agricultural output and changes in the shares of
+major export commodities in world markets in Indonesia, the Philippines and Thailand, which
+shall be interpreted in terms of the ecological and historical perspective to be developed later.
+Section 3 reviews the process of vent-for-surplus development in Southeast Asia in the late
+nineteenth to the early twentieth century. The critical roles of major river deltas in the
+continental part of Southeast Asia and tropical rain forests in the insular part are emphasized
+as the resource base of this development, and the resultant trade pattern is identified. Section 4
+investigates the evolution of different agrarian structures in the three economies in the vent-
+for-surplus development process under different ecological conditions and political regimes. It
+is emphasized that the preemption of uncultivated but cultivable land by the power elite was
+the major force to have resulted in skewed land distributions. Section 5 tries to explain
+4
+differential agricultural growth perfornances across Indonesia, the Philippines and Thailand
+in terms of the different agrarian structures. Finally, Section 6 summarizes the findings and
+identifies research agenda for the future.
+2. Recent Developments
+Before advancing a historical perspective it should be useful to develop an overview of the
+characteristics of resource endowments, agrarian structures and agricultural production
+performances in the three economies under comparison in recent years.
+Table 1 compares the endowments of land for agricultural production relative to population
+and labor force. Land is measured here by area of " cropland " in my term, which is the sum
+of areas of arable land ( area used for annual cropping ) and land under permanent crop in the
+statistics of the Food and Agriculture Organization (FAO). Arable land is classified into "
+lowland paddyfield " and " upland annual crop land". Data for these sub-categories of arable
+land have not been enumerated in the FAO statistics that are mainly based on the census of
+farm households.. It was only recently that the data of lo wland paddyfield area based mainly
+on aerial photography began to be available in the officizal reports of national statistical
+agencies for some specific years, which are used for calculations in Table 1.1 The areas of
+upland annual crop land are measured as differences between arable land and lowland
+paddyfield areas.
+Data in this table show that in per-capita terms croplanLd area in Thailand is more than twice
+as large than in Indonesia and the Philippines but only marginally larger in per-farm worker
+terrns in 1996 . Cropland areas increased from 1965 to 1996 by about 20 percent in Indonesia,
+40 percent in the Philippines and 60 percent in Thailand. In all the three economies, however,
+the rates of expansion in cropland area were lower than the rates of growth in population and
+Huke and Huke (1997) estimate paddyfield areas in Indonesia, the Philippines and Thailand in the mid 1990s as
+being 9,441,000, 3,456,000 and 9,806,000 hectares , respectively, though they do not specify to which years
+these data pertain. The substitution of Hukes' estimates for the data used in Table I does not change the
+conclusion of this paper.
+5
+agricultural labor force. The cropland endowment relative to population decreased from 1965
+to 1996 by 15 percent in Thailand, whereas the rates of decrease were higher than 30 percent
+in Indonesia and the Philippines. The land endowment relative to agricultural labor force
+remained about the same in Thailand, while it decreased in Indonesia by about 30 percent and
+about 10 percent in the Philippines. These data suggest that Thailand has been endowed with
+relatively favorable conditions for expanding land cultivation frontiers until recently, as
+compared with Indonesia and the Philippines.
+In the context of this paper the important characteristic that distinguishes Thailand from
+Indonesia and the Philippines is the high share of paddyfield area in total cropland, being
+larger than 50 percent in Thailand as compared with only about 30 percent in Indonesia and
+the Philippines in 1996. On the other hand, Indonesia and the Philippines are characterized by
+the high shares of area under pernanent crops amounting to more than 40 percent in contrast
+to less than 20 percent in Thailand. Needless to say, permanent crops in these economies
+consist mainly of tropical trees for cash crop production, such as coffee, coconuts and rubber.
+Although the earlier data are not available of lowland paddyfield area, the basic characteristic
+that the share of tree crop land was much higher in Indonesia and the Philippines than in
+Thailand remained the same today as 30 years ago. These data reflect the ecological
+difference between the continental part of Southeast Asia as represented by Thailand and the
+insular part as represented by Indonesia and the Philippines. The continental part had major
+river deltas almost exclusively used for wet rice production and the insular part was originally
+covered by tropical rain forests which could profitably be converted into the plantations of
+tropical cash crops.
+The different types of agricultural production corresponding to different environmental
+conditions gave rise to different agrarian structures in the continental part as compared with
+the insular part. Common to cereal-producing areas in the world, Thai agriculture traditionally
+dependent on rice has been characterized by the dominance of peasants or small family farms
+as the organization of production. On the other hand, a significant portion of tropical cash
+crop production has been carried out by plantations or large estate farms dependent on hired
+labor, though many peasants have also grown cash crops. Table 2 compares the distribution of
+farm sizes and the incidence of tenancy across Indonesia, the Philippines and Thailand for the
+6
+period before the influence of Philippine land reform became significant.
+In all the three economies small farms operating below 5 hectares were the majority
+comprising of 70 to nearly 100 percent of farms and cultivating from 40 to 70 percent of
+farmland. Large farms above 50 hectares, which were considered to be agribusiness
+plantations, are negligible in number, but land under the operation of those estate farms was
+14 percent in Indonesia and the Philippines, while that of Thailand was less than I percent.
+As such, the agricultural sector in the insular part is bifurcated between peasants subsisting on
+small parcels of land and large plantations with hired labor under the hierarchy of
+inanagement, while that of the continental patt is characterized by the uni-modal distribution
+of self-employed family farns. These plantations were p:rivately owned and managed in the
+case of the Philippines, whereas those of Indonesia were mostly state enterprises expropriated
+from Dutch planters after independence.
+The incidence of tenancy also varied widely, distinctively higher in the Philippines than in
+the other two, especially in terms of percentage of area under pure tenancy. What ecological
+factors and historical processes would have resulted in such diflerent agrarian structures in
+Southeast Asia shall be the focus of this study.
+Agricultural growth performances from 1965 to 1995 are compared in Table 3. In terms of
+total agricultural output, the rates of growth in Indonesia and Thailand were about the same,
+but in both per-capita and per-farm-worker terms, Indonesia's growth rates were somewhat
+higher. In those three measures the growth rates were the lowest in the Philippines. In terms of
+output per hectare of cropland, Thailand's growth was much slower than Indonesia and
+comparable to the Philippines. The slow growth of land productivity in Thailand resulted
+partly because of a major expansion of cultivation frontier in the Northeast that is
+characterized by poor soil and unstable rain fall, and partly because of the relatively low rate
+in the diffusion of modem high-yielding rice varieties.2
+2 Short-statured modern varieties were difficult o grow in flood-prone areas in the Chao Phraya Delta as well as
+in drought-prone areas in the North East. Also, farmers diod not aclopt modem varieties much because of the
+low valuation of these products in the export market for Thailand.
+7
+In terms of both environmental conditions and relative resource endowments, traditional
+comparative advantage in agricultural production of Thailand lay in rice, and that of Indonesia
+and Philippines lay in tropical cash crops. It is, therefore, no surprise to find in Table 4 that
+Thailand was a major rice exporter (the world's largest) with its world market share
+continuing to rise from 1961-65 to 1991-95, while Indonesia and the Philippines remained net
+importers though their import margins were significantly reduced owing to the success of the
+" Green Revolution." This success was especially great in Indonesia, accounting mainly for
+the high rate of growth in aggregate agricultural output despite the relatively slow growth of
+cropland area in this country (Tables I and 3).
+Surprising is the rise of Thailand as the exporter of several tropical cash crops associated
+with the decline of Indonesia and, more conspicuously, that of the Philippines. Sugar
+represents a typical example. Thailand was a net importer of sugar before the Second World
+War and was barely self-sufficient in the early 1960s. Nevertheless, Thailand rose to the third
+largest exporter in the world next to Brazil and Australia in the I 990s. In contrast, Indonesia
+and the Philippines, two traditional exporters of sugar in Asia almost completely lost its
+significance in the international market. Thailand exceeded Indonesia in the export of rubber
+and the Philippines in the export of pineapple products by the 1990s. Indonesia was able to
+achieve a major increase in the world market share of coffee and also to maintain high shares
+of palm oil and rubber. The Philippines, on the other hand, was the loser in world competition
+in most tropical cash crops in which traditional comparative advantage is supposed to lie,
+especially after the 1970s. The strengthened competitive position of Thai agriculture and the
+dwindled position of Philippine agriculture are unmistakable from the data.
+As is well known, Indonesia and Thailand belonged to " high-performing economies" in the
+East Asian economic miracle throughout the four decades ending in the outbreak of the
+financial crisis in 1 997(World Bank 1993), while Philippine economy staggered especially in
+the "lost decade" of the 1980s. As the result, per-capita GNP in Thailand, which was about the
+same as that of Philippines in the 1970s, became twice as large by the early 1990s. During the
+same period Indonesia's GNP per capita increased from only about one half to about the same
+level as the Philippines'. It should be reasonable to expect that the different performances of
+agriculture among the three countries, as summarized in this section, should be one of major
+8
+factors underlying different growth rate of their economies. The following sections aim to
+identify ecological and historical determinants of agrarian structures, each unique in
+Indonesia, the Philippines and Thailand, and discuss on how the different agrarian structures
+might have been related to different agricultural and economic growth performances.
+3. The Basis of Vent-for- Surplus Development
+As advanced in the introduction, one basic framework of my perspective is the
+classification of Southeast Asia into the continental part and the insular part (including the
+Malay Peninsular), characterizing the former by major river deltas and the latter by tropical
+rain forests. Such characterization is a gross over-simplification, disregarding wide ecological
+variations within each region.3 In Thailand for example, the major delta of Chao Pbraya
+River encompasses only a part of the Central Plain, one of four regions in Thailand. The
+North is characterized by small river valleys amidst hills and mountains rising toward the
+Burmese-Chinese border, where irrigated rice farming can easily be practiced by tapping
+small streams, on which early Thai dynasties were build. The Nfortheast bordering with Laos
+is characterized by undulated plateau with sporadic rainfall anci poor soil, which had remained
+as the last frontier until Lao migrants settled recently by means of risky rainfed farming. The
+South toward the border of Malaysia has an environment similar to the insular part originally
+covered by rain forest.
+Ecological variations within the insular part are equally large. Especially pronounced is the
+difference between Java (and Bali) and Outer Islands such as K<alimantan and Sumatra in
+Indonesia. While much of the latter area is typically covered by tropical rain forest, the
+environment of Java is categorically different, as it is characterized by volcanic slopes with
+fertile soil and steady water supply, which makes much of this area uniquely suited for
+irrigated rice farming. The environment of the Philippines is largely similar to that of Outer
+Islands in Indonesia but mixed with volcanic terrain similar to that of Java.
+3 Descriptions on ecological and environmental conditions in Southeast Asia in this paper are mainly based on
+Takaya (1985).
+9
+Despite the large variations within each region, I would dare to characterize the
+environment of the continental part by major river delta and that of the insular part by tropical
+rain forest, because they were the basis of economic development in Southeast Asia from the
+late nineteenth to the early twentieth century. The so-called "vent-for-surplus theory" by
+Myint(1965; 1971, ch.5) focused on the process of development of "empty land" with low
+population density, large tracts of unused land and abundant natural resources, typically found
+in Southeast Asia and Africa at the outset of Western colonization . When these economies
+were integrated into international trade, unused natural resources (hitherto having had no
+value to indigenous people) began to command market value since they were found useful to
+produce primary commodities of high export demand to Western economies. In this way,
+hitherto-unused resources became the source of economic development. It was the deltas of
+major rivers, such as Chao Phraya in Thailand, Irrawaddy in Myanmar and Mekong in
+Vietnam that became the basis of vent-for-surplus development in the continental part of
+Southeast Asia, while it was the land under rain forest that provided the development basis for
+the insular part.
+Major river deltas in the continental part were very flat and low relative to the sea level, so
+that their surface is almost completely submerged by flood in rainy season while it dries up in
+dry season with no reservoir to store water. As such, flood plains in the major deltas had
+defied human settlement until the mid-nineteenth century, literally remaining empty land. It
+was through the major civil engineering work to control flooding water that the deltas were
+transformed into habitable and agriculturally productive land. In Thailand the water control
+work took the form of developing the network of canals connected with Chao Phraya River.
+The canals guide flooding water more evenly over wider areas for rice production. Also, canal
+banks provide flood-proof spaces on which farmers can settle.
+Canal construction in the Chao Phraya delta was initiated by the government of
+enlightened King Mongkut (Rama IV of the Chakri dynasty) shortly after the signing of the
+so-called Bowring Treaty in 1855 that opened the kingdom to trade with the West. Soon,
+rapid increases in foreign demand for Thai rice, which significantly raised both the price of
+rice and the value of rice land, induced mobilization of private investment. As a major
+builder of private canals, the Siam Canals Land and Irrigation Company was established by
+10
+a group of influential courtiers and wealthy Chinese traders. The company secured
+concession in 1889 to dig canals in a vast tract of swampy land in the northeast of Bangkok,
+under the clause that the company is allowed to hold ownership over reclaimed land along
+the canals. Its operation was managed by the Chinese business elite and construction work
+was heavily based on Chinese migrant laborers hired on wage, unlike corvee labor used in
+King's prior projects. However, farmers settled in reclaimed land as tenants were Thai, who
+migrated from other regions4. There is little doubt that' opening of the Chao Phraya Delta
+for rice production was the very basis of vent-for-surplus growth of Thai economy toward'
+specialization in rice production in the late nineteenth century. Although comparable data
+are not available for earlier years, the area planted in rice in the Central Plain was as large
+as 6.8 million rai ( one rai equals 0.16 hectare) or 85 percent of total rice area in the
+kingdom in the 1905-9 period, which was larger than the national total of 5.8 million rai in
+1850 (Ingram 1971, p.44). Opening of the Irrawaddy Delta and the Mekong Delta in the
+development of Burmese and Vietnamese economies during the comparable period was no
+less important than that of the Chao Phraya Delta.
+A comparable role in vent-for-surplus development in the insular part of Southeast Asia was
+played by tropical rain forest. Since long before the mid nineteenth century, rain forest had
+long been the source of supply of valuable products for trade, such as cinnamon, clove, bird
+nests, deer horn and hides. However, the high incidence of ma[laria and other tropical diseases
+defied human settlement inside thick tropical forest in low elevation. Typically, native people
+lived on sea coasts and occasionally entered the forests for colilection and extraction of natural
+products for sale to foreign traders or their agents who sailed to their coasts. It was in the late
+nineteenth century that Western capital and entrepreneurship began to convert the forests into
+plantations of tropical export crops, heavily relying on migrant. labor from China. Before this
+period there were attempts by Western colonial powers to collect tropical products from the
+natives by tax and other coercive means, but it was largely after the mid nineteenth century
+4 While the corvee obligation was replaced by tax in kind or mone', slave:ry was also phased out gradually over
+the reigns of Kings Mongkut and Chulalongkom, ending in abolishment in 1905 (Ingram 1971, pp. 53-63
+Feenyl 982,
+ch. 6). The elimination of slavery and the corvee should have been an important factor for allocating a greater
+share of Thai labor to rice cultivation.
+11
+that Western colonizers by themselves began to produce export crops by organizing
+plantations in Southeast Asia.
+Concurrent exploitations of continental deltas and insular forests were the result of greater
+integration of Southeast Asia into world economy in the late nineteenth century. Much greater
+integration than before resulted from (a) establishment of the free trade regime under the
+hegemony of Britain and (b) revolution in ocean transportation. The free trade system was
+imposed on native economies by force, either directly by Britain in its colonies or indirectly
+by forcing liberalization on local sovereign and other colonial powers. By the Bowring Treaty,
+Thailand conceded to Britain not only exterritoriality but also lost financial autonomy. Export
+and import duties were fixed at the flat rate of three percent ad valorem, and internal taxes
+such as exercise taxes, transportation tolls and even land taxes were not allowed to change by
+the will of the kingdom alone. Public finance was carefully monitored by advisors from
+Britain (Ingram 1955, ch.8). As such, the Kingdom of Siam for several decades after signing
+the Bowring Treaty was almost like Britain's protectorate. The free trade system, both
+internationally and internally, was imposed on the kingdom in a way similar to Britain's
+colonies such as Burma and Malay.
+Furthermore, Britain pressed on other Western colonies to adopt the free trade system. For
+example, Spaniards' monopoly of re-export trade at Manila of Chinese goods to Mexico by
+galleon ships were broken by the British occupation of Manila in 1762-64 during the Seven
+Years' War, with the result of opening up Manila to other nations' shipment and commerce.
+Continued pressure of Britain underlay successive opening of other ports in the Philippines
+until the mid nineteenth century (Larkin 1972).
+The reason behind Britain's strong drive for free trade was its high manufacturing
+production capacity established this country as "the Workshop of the World" after the
+Industrial Revolution. British industries sought markets for their products and sources of raw
+material supplies. Having established the modern factory system that could produce industrial
+products at lower costs than local cottage industries in the tropics, Britain found it
+advantageous to trade their manufactured commodities for tropical agricultural products and
+minerals for meeting import demands, compared with the forced collection of tropical
+12
+commodities through tax and other means, which was commonly practiced by earlier
+colonialism such as Spanish conquistadors in the Philippines and the Dutch East India
+Company in Indonesia. This approach was soon followed by other Western nations as they
+followed Britain in industrialization.
+Corresponding to the expanded industrial production capacity, demands from the West for raw
+materials for processing, such as cotton, rubber and tin became very large. Moreover, as the
+level of income and wages rose, tropical delicacies such as pepper, coffee and tea hitherto
+limited to the consumption of high-income elite became commonly placed on the tables of
+ordinary working people. Altogether, demands in the West for primary products from the
+tropics became incomparably larger than before.
+This tendency was further strengthened by major innovations in ocean transportation,
+consisting of the introduction of steamship and the opening of the Suez Canal in 1869. These
+two innovations were combined to reduce the transportation cost of commodities from
+Bangkok to major ports in Europe such as London below that from Bangkok to Thailand's old
+capital, Chiang Mai (Ingram 1971, p. 11 5). Without such innovations it should have been
+impossible for the bulky commodity like rice produced in Southeast Asia to find market as far
+as in Europe (Furnival 1948,pp.50,84-85).
+While the innovations in ocean transportation reduced the prices of commodities from
+Southeast Asia in the West, they also reduced the prices of Western commodities in Southeast
+Asia to a large extent. Thus, under the liberal trade regime in the late nineteenth century,
+industrial commodities flowed into Southeast Asia, out-competing local handicraft industries.
+De-industrialization became a common feature in Southeast Asia (Resnick 1970). Thailand,
+which used to be an exporter of cotton products before the 1 850s, quickly turned to be a major
+importer (Ingram, 1971, ch.6). Correspondingly, indigenous labor shifted from manufacturing
+to primary production for export. This shift, together with migration of labor from China and
+India, provided the basis of exploiting unused natural resources, such as major river deltas and
+tropical rain forests, for vent-for-surplus development. An example to clearly illustrate the
+impact of opening to international trade on specialization in primary production can be seen in
+the development of sugar production in Negros, Philippines. Prior to the opening of nearby
+Iloilo City as an international port inl855, Negros Island was sparsely populated and much of
+13
+its area was uncultivated. After then, this island was rapidly transformed into sugar
+plantations. Concurrently, local weaving industries surrounding Iloilo, which had hitherto
+made textiles a major export item from this region, were brought into havoc by the inflow of
+cheap British cloth (MaCoy 1982).
+In the global trade system created in the late nineteenth to the early twentieth century the
+exchange was not simply between industrial commodities in the West and primary
+commodities in Southeast Asia. Rice produced in the continental part was originally brought
+to Europe as cheap food for industrial laborers (some re-exported to Latin America). Later, as
+plantations were developed in the insular part, demand for rice as the basic subsistence need
+for plantation laborers expanded at the speed that could not be met by local supply.
+Correspondingly, the share of rice exported from the continental to the insular part within
+Southeast Asia increased. Thus, the trade flows emerged in this period were triangular - rice
+produced from the continental part was brought to the insular part, and tropical cash crops
+produced in the insular part by laborers fed on the imported rice were exported to Europe in
+exchange for industrial products. In this triangular trade flow, comparative advantage dictated
+for regional specialization. For example, sugar industry, which appeared to be a promising
+industry for export in Thailand in the onset of trade opening, was soon destroyed by imports
+from Indonesia and Philippines (Ingram 1971,ch.5). In this way, vent-for-surplus development
+in Southeast Asia based on the exploitation of hitherto-unused land resources was reinforced
+by comparative advantage within the region. 5
+4. Evolution ofAgrarian Systems
+How this process of vent-for- surplus development would have influenced on the formation
+of agrarian structures in Indonesia, the Philippines and Thailand, as observed in Table 2, may
+be summarized as follow: (a) Thailand is characterized by the unimodal distribution of
+peasants or family farms with large estate farms or plantations being insignificant and the
+incidence of tenancy being relatively low, (b) Indonesia and the Philippines are characterized
+5Comparative advantage based on natural resource endowments was re-enforced by colonial policies on farm
+lands (which shall be discussed in Section 4) as well as public investments in physical and institutional
+infrastructure. For example, the increased international competitiveness of sugar industry in Indonesia was
+supported by a strong sugarcane research program organized by the Dutch colonial government (Evenson 1976).
+14
+by bifurcation between the peasant sector growing mainly subsistence crops and the
+plantation sector growing tropical cash crops, and (c) relative to the other two the incidence of
+tenancy is high in the Philippines. Characteristics of (b) and (c) are combined to imply that the
+share of landless population in the rural sector is the highest in the Philippines.
+It is common to explain the persistence of the peasant mode in contrast to the emergence of
+the plantation system in terms of different technological requirements for production between
+subsistence food crops and export cash crops. However, in my perspective the bifurcated
+farm-size distribution and the problem of landlessness in Southeast Asia (as well as in other
+parts in the world) stemmed essentially from " preemption of land " by colonial and domestic
+elite rather than technological factors for agricultural production.
+4.1 Conditions of the plantation system 6
+In order to articulate this perspective it is necessary first to identify the factors underlying
+the emergence of plantations.
+A conventional explanation for the establishment of a plantation system is the scale
+economies inherent in the production of tropical export crops (Baldwin 1956). However, the
+crops subject to sufficiently strong scale economies at the farm level to make the use of the
+plantation organization necessary are few (Pim 1946; Wickizer 1951, 1960; Lim 1968;
+Hayami, Quisumbing, and Adriano 1990, chs. 5 and 67). In fact, one can find an example of
+every so-called plantation crop being grown successfully by peasants somewhere in the world.
+Significant increasing returns emerge only at the levels of processing and marketing
+activities. The vertical integration of a large farm unit with a large-scale central processing
+and/or marketing system is called for because of the need to supply farm-produced raw
+materials in a timely schedule. A typical example is fermented "black tea." The manufacturing
+This section draws on Hayami (1994; 1996).
+Absence of scale economies in agriculture is also attested by the estimation of aggregate production functions
+based on inter-country cross-section data (Hayami and Ruttan 1985,ch.5).
+15
+of black tea at a standardized quality for export requires a modem machine plant into which
+fresh leaves must be fed within a few hours after plucking (Wickizer 1951; 1960). The need
+for close coordination between farm production and processing underlies the traditional use of
+the plantation system for black tea manufacture. Unfermented "green tea," in contrast,
+remains predominantly the product of peasants in China and Japan.8
+In the case of bananas for export, harvested fruits must be packed, sent to the wharf, and
+loaded on a refrigerated boat within a day. A boatful of bananas that can meet the quality
+standards of foreign buyers must be collected within a few days. Therefore, the whole
+production process from planting to harvesting must be precisely controlled so as to meet the
+shipment schedule. Although the plantation system has a decisive advantage for this exported
+product, bananas for domestic consumption are usually produced by peasants.
+On the other hand, for the crops for which centralized processing and marketing are not
+necessary, plantations have no significant advantage over peasants. Typical examples are
+cocoa and coconuts. The fermentation of cocoa and the drying and smoking of coconuts to
+make copra can be handled in small lots with no large capital requirement beyond small
+indigenous tools and facilities. These crops are grown predominantly by peasants.
+Sugar is frequently cited as a classic case of scale economies stemming from the need of
+coordination between farm production and large-scale central processing (Binswanger and
+Rozenweig 1986). Efficient operation of a centrifugal sugar mill requires the steady supply of
+a large amount of cane over time. Coordination of production from planting to harvesting
+with processing is required. This coordination, however, need not be as stringent as it is for
+tea and bananas. The rate of sugar extraction decreases as the processing of cane is delayed,
+8 Even for the manufacture of black tea is not imperative to use the plantation system as evident from the case of
+Taiwan where smallholders have been used to produce both black and green tea with small-scale equipment.-The
+large fermentation plant has been used by plantations as a device of enforcing work schedule and standardizing
+product quality for the export market. In fact, farm production by smallholders based on the system of "contract
+farming" (which shall be explained in Section 5.2) have recently been developing in Kenya (Lamb and Muller
+1982).
+16
+but this loss is in no way comparable to the devastating dama:ge that delayed processing has
+on the quality of tea and bananas for export. Sugar cane can be hauled from relatively long
+distances and stored for several days. Therefore, the need for vertical integration is not as
+large, and the necessary coordination can be achieved through contracts of a sugar mill with
+cane growers on the time and the quota of cane delivery. In fact, an efficient sugar industry
+with smallholders has developed in Australia, Taiwan and more recently in Thailand.
+Another explanation for the use of the plantation system is the advantage of large estate
+farms in accessing capital. Because of this, it has been argued that plantations have an
+advantage with regard to tree crops characterized by long gestation periods from planting to
+maturity (Binswanger and Rosenzweig 1986). However, the opportunity costs of labor and
+capital applied to formation of the tree capital are not necessarily high for peasants. Typically,
+they plant the trees in hitherto unused land. If such land is located near their residence, they
+open new land for planting by means of family labor at low opportunity cost during the idle
+season for the production of food crops on farm land already in use. When they migrate to
+frontier areas, a typical process is to slash and burn jungles and plant subsistence crops such
+as maize, potatoes and upland rice, together with tree seedlings. Such complex inter-cropping
+is difficult to manage with hired labor in the plantation system, because of inherent difficulty
+in monitoring the work of hired wage laborers over spatially dispersed and ecologically
+variable farm operations (Brewster 1950; Binswanger and Rosenzweig 1986; Hayami and
+Otsuka 1993).
+Therefore, even in the export boom of tropical cash crops under colonialism from the
+nineteenth century to the early twentieth century, the plantation system failed to make inroads
+in regions where indigenous population had established family farms (Lewis 1970, pp. 13-45).
+Western traders found it more profitable to purchase tropical agricultural commodities from
+peasant producers in exchange for imported manufactured cormmodities than to produce the
+tropical crops themselves by means of the plantation system.
+The establishment of plantation in less-developed economies became a necessity when the
+demand for tropical products by the industrialized nations continued to rise, while the regions
+physically suited for the production of these products had no significant peasant population
+17
+that could produce and trade their commodities. Opening frontier land for the production of
+new crops entailed high capital outlays. Virgin land had to be cleared and developed, and
+physical infrastructure, such as roads, irrigation systems, bridges, and docking facilities, had
+to be constructed. Capital, in the form of machinery and equipment, had to be imported and
+redesigned to adapt to local situations. Laborers were not only imported from the more
+populous regions but also had to be trained in the production of these crops.
+The establishment of plantations thus requires huge initial capital investment. For the
+investors to internalize gains from investment in infrastructure, the farm size inevitably must
+be large. Viewed from this perspective, it follows that the plantation system evolved not
+because it was generally a more efficient mode of productive organization than the peasant
+mode, but because it was the most effective type of agricultural organization for extracting the
+economic benefit accruing from the exploitation of sparsely populated virgin areas, typically
+in the process of vent-for-surplus development. From this perspective, it is easy to understand
+why the same crop is grown mainly by peasants in one place and mainly by plantations in
+another. For example, for sugar cane production the peasant mode is more common in old
+settled areas of Luzon, and the plantation system predominates in the newly opened Negros,
+both in the Philippines (Hayami, Quisumbing, and Adriano, 1990, ch.5). Usually the share of
+peasants in the production of export cash crops rises as the initial land-opening stage is over
+and infrastructure is decently established with increased population density (Booth 1988,
+ch.6).
+While recognizing the economic advantage of the plantation system in the vent-for-surplus
+stage, plantations could not have been established unless concessions were granted to hold
+large tracts of virgin land for their exclusive use. Typically, such concessions were given by
+colonial governments to Western planters. For example, the Dutch colonial government had
+traditionally tried to prevent alienation of farmland from indigenous peasants by regulating
+against land purchase by foreigners including ethnic Chinese. However, in the late nineteenth
+century when demands for tropical cash crops rose sharply, by the Agricultural Land Law of
+1870 the government granted Dutch planters long-term contracts to lease in wild land, which
+were dejure owned by the government (though defacto used by native tribes) . While this
+new institutional arrangement should have accelerated the development of "empty land" for
+18
+cash crop production, it served as an instrument to pree:mpt land for the elite, closing
+smallholders' land access. Similar public land-leasing arrangements were also practiced under
+the American colonial administration in frontier land of the Philippines, especially in
+Mindanao, which became the basis of large plantations under the management of
+multinational corporations (Hayami, Quisumbing and Adriano 1990, ch.6).
+4.2 Landpreemption and tenancy
+The incidence of land tenancy is also closely related wilh the preemption of land. Of course,
+land tenancy relationship can emerge as a practice among peasants in the absence of
+preemption. If a rural community is not disturbed by exitemal forces, land tenure institutions
+would evolve gradually from communal to private ownership. Corresponding to the growing
+relative scarcity of land under mounting population pressure, iit becomes necessary to
+intensify the utilization of land, typically from shifting cultivation with long furrow to that
+with short furrow, to annual cropping and further to multiple cropping per year involving
+irrigation a la Boserup(1965). The process of agricultural intensification required major
+investment for improving land infrastructure, from removing stones and roots out of newly
+opened land to land leveling and terracing, and further to irrigation and drainage. In order to
+secure incentive for such investment it becomes necessary to give land users the right to use
+their land exclusively. Thus, land tenure institutions normally evolve from communal
+ownership to private ownership, involving various steps from periodical re-allotment of
+communal land among community members, to life-long usufruct rights, to usufruct rights
+inheritable to heirs, and further to private property rights amerLable for market transactions .
+Land tenancy arrangements gradually develop as an institution to increase production
+efficiency by improving combinations between land and labor (including entrepreneurship) as
+individual land tenure becomes longer and more exclusi ve. When a farrmer finds his family
+labor short for cultivation of a land parcel on which a long-tenn usufruct is established ( for
+sickness or some other reasons), he may rent out a part of it to someone whose land
+endowment is short relative to labor endowment. It is a Pareto improvement if the latter pays
+to the former a rent equivalent to the marginal productivity of land. At the same time, land
+tenancy associated with private property rights on land can work as an institution to increase
+19
+inequality in income distribution and social hierarchy within community. A farmer endowed
+with superior muscular power or entrepreneurship may rent more land and increase income
+and may eventually buy the land. As he eventually accumulates more land than his family
+labor can efficiently cultivate, he may rent out a part of his land to someone who has become
+landless for whatever reason. Increased income from rent revenue added to farm income may
+motivate him to purchase more land for renting. This process should progress faster as the
+relative scarcity of land rises under increased population pressure.
+Such autonomous evolution of land property rights and tenancy relationships, however,
+does not usually result in large-scale absentee landlordism as observed in several developing
+economies. Rather it tends to create stratification of peasantry along a continuous spectrum
+between landlord-cum-owner and owner-cum-tenant farmers. Although land tenancy is very
+commonly practiced, a majority of farmland continues to be under owner cultivation, and both
+non-cultivating landlords and pure tenants are the minority. Such an agrarian structure is
+typically found in the peasant sector in Indonesia. Unlike other colonial powers, the Dutch did
+not try to impose Western institutions such as private property rights in land. Rather it
+preserved or even strengthened traditional community institutions and organizations. The
+Agrarian Law of 1870 granted long-term lease of wild public land to foreign planters, as
+explained before, but did not allow them to purchase or rent cultivated land from native
+peasants individually. Instead, sugar planters were allowed to lease in rice land through
+contracts with the heads of villages normally extending for less than 20 years. The lessee was
+allowed to occupy only one third of the village land, which had to be rotated over three crop
+seasons. This rotation was designed to prevent planters from gaining a permanent hold on
+village land. Periodic reallocation of village land under the direction of village headmen
+strengthened traditional tendencies toward communal landholding (Pelzer 1945, p.146).
+A sharp contrast is found in the Philippines. The Spaniards introduced from the time of
+conquest the notion of legal title to land (McLennan 1969). They applied to the Philippines
+the same principle applied to other new territories-that all land except those officially proved
+to be private or communal possessions belonged to the Spanish crown. The crown's property
+rights were established over vast areas of uncultivated land including areas used as commons
+by native people. Much of the royal domain was granted to conquistadors and monastic orders
+20
+such as Augustinian and Franciscan friars. This institutional development in the early Spanish
+era represented a wholesale preemption of usable land closing access by native people. Later,
+as the population increased and foreign demand for Philippine products increased through
+trade liberalization, large landholdings created from earlier royal grants became the basis of
+plantations in the case of upland and rice haciendas manned by tenants in the case of lowland.
+However, native peasants had no access to land for them to open and establish ownership. For
+example, when the inner part of Central Luzon that had been covered by jungle and used only
+for cattle ranching was finally converted into large rice haciendas in the late nineteenth
+century, many peasants migrated from the north with the belief that they had settled in no
+man's land. After opening the jungle , they were visited by the agents of landowners and
+notified to pay rents as tenants in haciendas (Hester and Mabun 1924).
+Pervasive landlordism in the Philippines also rooted in relatively free land transactions
+under the Spanish regime. Chinese and Chinese mestizos, who engaged in internal trade along
+littorals where native peasants held traditional land rights, acquired land through money
+lending using land as collateral. A common arrangement is that the borrower continued to
+cultivate his land as a sharecropper of his creditor during the loan period and that, if unable to
+pay the loan in the end of the loan period, the land title shifted to the creditor while the
+borrower usually continued sharecropping (McLennan 1969). The scale of landholding
+accumulated in this commercial process in the coastal area was typically much smaller than
+that of hacienderos in the inner part of Central Luzon (Hayami and Kikuchil981, ch. 4). Thus,
+before the Marcos land reform in the 1970s, rice area in the P'hilippines was predominantly
+cultivated by share tenants, typically owning no land of their own. The pervasive landlordism
+in the rice sector and plantations in the cash crop sector that characterized the traditional
+agrarian structure in the Philippines were both rooted in the preemption of land in the Spanish
+period.
+In Thailand also, preemption occurred in the vent-for-surplus stage through granting of land
+concessions to private canal builders in Chao Phraya Delta. As a result, the incidence of
+tenancy is significant in the Central Plain, especially in the Rangsit area northeast of
+21
+Bangkok, where canals were intensively dug by the private company9 . Yet, taking Thailand as
+a whole, tenancy is of minor importance compared with Indonesia and the Philippines, partly
+because of relatively abundant land endowment and more importantly because of government
+policy. In this country it was the ancient custom to give every man the right to take as much
+land from the state as he and his family could cultivate, which was considered normally to be
+25 rai (equivalent to 4 hectares). This institution was maintained even after opening trade with
+the West. The Consolidated Land Act of 1908 did not specify an exact area of land, but gave
+people the right to take as much land as they could profitably cultivate. In practice these areas
+ranged between 20 and 50rai. The Land Act of 1936 specified 50 rai as the maximum that one
+could take. By these laws access of ordinary Thai to land was kept wide openl. The situation
+was diametrically different from that of the Philippines. Both of these Thai laws incorporated
+another old custom that the cultivator could receive title to the land only after he cultivated it
+for three years. This clause together with the land taxation applied not only to cultivated but
+9 It is important o recognize that the preemption of potential rice land in Thailand as well as in the Philippines
+resulted in the emergence of large-scale landlordism but not in the formation of plantations based on hired labor.
+Large holdings of landlords were usually subdivided into small parcels for rice cultivation by the family labor of
+landless peasants under tenancy contracts. The owners of large tracts of rice land who established titles through
+land preemption, such as obtaining concessions for canal digging in the Chao Phraya delta, preferred tenancy to
+plantation operations. The reason may partly be explained by the difficulty of standardizing tasks of rice
+production and, hence, of monitoring the efforts of workers. An equally or perhaps more important reason is that
+paddy is storable and hence the need of close coordination between farm production and processing/marketing is
+not necessary unlike the cases of black tea and banana for export, as explained before. Although rice milling and
+marketing for export involved significant scale economies, the operators of this business could secure adequate
+supply of paddy through ordinary market transactions. As the result, they were dispensed with the efforts to
+vertically integrate farm production with processing and marketing by means of the plantation system or the
+contract farming system. Therefore, it may not be unreasonable to postulate the counter-factual hypothesis that,
+if the nature of rice milling technology were such as to require close coordination with paddy production, large
+rice plantations would have been established in the Rangsit area in the process of rent-for-surplus development.
+Outside the newly opened delta area, the practice of tenancy is fairy common in the old-settled North region. The
+agrarian structure in the North of Thailand, which did not experience preemption, is similar to that of the peasant
+sector in Indonesia characterized by a continuous spectrum from landlord-cum-owner to owner-cum-tenant
+farmers.
+10 All forest lands were de jure state-owned but were de facto open-access, except valuable teak forests which
+were an important source of the Kingdom's revenue (Feeny 1999, p.43 1)
+22
+also uncultivated holdings discouraged holding of land for speculation (Ingram 1971, p.79).
+It appears to be rather obvious that the basic factor underlying the major difference in land
+policy between the Philippines and Thailand was the difference in the culture or the value
+system between Spanish colonial rulers and the rulers of the i:ndependent kingdom. The
+reason why the Dutch colonial rulers tried to preserve traditional village institutions thereby
+avoiding alienation of land from peasants in Indonesia inight be their motivation to maintain
+social stability for the sake of extracting tropical agricultural products from this colony at the
+minimum administrative cost, as argued by Fumival (1944; 1948).
+5. Agrarian Structure andAgricultural Growth Performance
+I now try to deliberate if the different agrarian structures that emerged along different
+historical paths under different ecological conditions explain, at least in part, different
+agricultural growth performances across Indonesia, the Philippines and Thailand in recent
+several decades, as outlined in Section 2. The following two questions shall be focused: First,
+why did Indonesia and the Philippines, which had strong comparative advantage in tropical
+cash crops such as sugar before the Second World War, lose ground to Thailand in world
+market competition in recent years (Table 4 ) ? Second, why was the agricultural output
+growth of the Philippines so slow relative to Indonesia and Thailand (Table 3)?
+5. 1 Losing ground ofplantations
+The previous section has argued that the efficiency of the plantation relative to the peasant
+system is high in the initial opening-up process of land-abundant and labor-scarce economies.
+However, several negative aspects of plantations become significant as tropical economies
+shift from the land-abundant to the land-scarce stage after the completion of the opening-up
+process.
+First, the plantation system tends to substitute capital .for labor, because of the inherent
+difficulty in supervising wage laborers in spatially dispersed anrd ecologically diverse farm
+operations as well as their relatively easy access to both private credit market and
+23
+government's concessional loans. This substitution is socially inefficient in many developing
+economies which are characterized by the abundant endowment of labor relative to capital.
+Second, agricultural land tends to be cultivated less intensively in the plantation system that
+employs mainly wage labor and usually practices monoculture. Complicated inter-cropping
+and crop-livestock combination are more difficult to manage in the command system,
+implying that both labor input and income per hectare were lower in the plantations. ' This is
+a source of inefficiency in the plantation system where land becomes scarce relative to labor
+under the pressure of population growth. In contrast, small-sized family farms tend to
+cultivate land more intensively.
+Third, plantations usually specialize in a single crop. This bias for the production of a
+monocrop reduces the flexibility of these productive organizations to respond to changing
+demand by shifting to the production of other crops. Moreover, continual cropping of a single
+crop tends to result in soil degradation and an increase in pest incidence. Counter application
+of fertilizer and chemicals causes serious stress on environment and human health, and incur
+high costs.
+Fourth, the specialization of plantation workers in specific tasks inhibits the development of
+their managerial and entrepreneurial capacity (Baldwin 1956; Myint 1956; Beckford 1972).
+Fifth, the plantation system is a source of class conflict between laborers and
+managers/capitalists. The presence of a plantation enclave in rural economies where the
+peasant mode of production predominates has often strained relationships in rural
+communities. In terms of the criterion of social stability, therefore, the plantation system is no
+match for the system of relatively homogeneous small producers owning small assets,
+however small they might be.
+" Official statistics often record that yields per hectare of cash crops such as coffee and rubber are higher in
+plantations than in small holders. However, these statistics do not take into account various products
+intercropped with principal cash crops by small holders, whereas monoculture is the common practice of
+plantations.
+24
+Although Southeast Asia had traditionally been endowed with relatively abundant land
+resources ready for exploitation, frontiers for new land opening were progressively closed
+under the explosive population growth that characterized developing economies after the
+Second World War. It seems reasonable to expect the advantage of the plantation system to
+have declined and that of the peasant system to have risen correspondingly. It is no wonder,
+therefore, to find that Thai agriculture which predominantly consisted of smallholders began
+to perform better than that of Indonesia and the Philippines characterized by the large
+plantation sectors. 12 Major increases in the exports of non-rice agricultural commodities such
+as rubber, kenaf and cassava tips from Thailand were totally based on smallholders'
+production. It is true that the expansion in the production of non-rice export crops in Thailand
+was, to a significant extent, supported by the existence of open land frontiers to enable
+relatively fast increases in area under cultivation (Table l). The important point in the present
+context, however, is that the exploitation of cutivation frontiers was carried out by
+smallhoders but not by plantations.
+Relative increases in the efficiency of the peasant system was not limited to Thailand. The
+dramatic rise in the share of Indonesia in world coffee and cocoa markets was entirely based
+on smallholders (Akiyama and Nishio 1996). Also, the production of coconut oil in the
+Philippines for which this country was able to maintain its high world market share, was
+extracted predominantly from copra made by smallholcders, although some coconut
+plantations continued to operate, especially in Mindanao.
+The advantage of the plantation system is the better coordination between large-scale
+marketing/processing and farm-level production. Yet, the disadvantage of the peasant system
+12 In addition to this disadvantage, the plantation sector in post-independence Indonesia that expropriated the
+estates of Dutch planters seems to have suffered from inefficiency common to state enterprises. Several attempts
+to cure this problem include the "nuclear estate" scheme by which a state plantation acts as a
+marketing/processing center with a demonstration farm for technical extension, along which smallholders are
+organized in a manner similar to contract farming. These attempts have often been marred by the direct
+application of plantations' technology and practice without due understanding of smallholders' conditions
+(Barlow and Tomich 1991). The case of Indonesia represents a contrast to the relatively high efficiency of
+plantations in Malaysia under private entrepreneurship. Private plantations in Malaysia are also well supported
+by the co-operative research and extension system that has been organized since the colonial period.
+25
+in this aspect could be overcome by organizing "contract farming. " In contract farming,
+agribusiness firm manages processing and marketing but contracts for the supply of farmn
+products with peasant farmers. The firm provides technical guidance, credit, and other
+services to peasants in return for their pledged production to the firm. In this way the system
+can take advantage of peasants in farm production without sacrificing scale economies in
+processing and marketing. Advantage of this system is to tap not only the muscle labor but
+also the management ability of rural people in developing economies. It was with this system
+that Thailand, which began canned pineapple production relatively recently, has surpassed the
+Philippines, formerly the world leading exporter, whose production is based on large
+plantations in Mindanao13
+5.2 Dilemma ofland reform
+We now turn to the question of how landlessness in the Philippines and land reforrn
+programs aimed to solve this problem might have been related with relatively poor
+performnance of agriculture in this economy.
+Attempts to mitigate social unrest rooted in pervasive landlordism in the Philippines by
+means of redistributive land reform extended back to the American colonial regime, but the
+framework of the reform applied in the past four decades was established by the Agrarian
+Land Reform Code of 1963 enacted under President Macapagal (Hayami, Quisumbing and
+Adriano 1990, ch. 3).
+The major thrust of the Code was the creation of owner-cultivatorship in rice and com land.
+This involves two steps: first, "Operation Leasehold," which converts share tenancy to
+13 However, it needs a high degree of entrepreneurship and managerial skill to organize and operate the efficient
+contract farming system, because it is not easy to enforce contracts with a large number of smallholders
+concerning the quantity, quality and time of their product delivery to processing plants and/or marketing centers.
+Insufficient ability and effort of agribusiness firms in this regard have often resulted in the failure in the
+operation of contract farming. Thus, the performance of contract farming has so far been mixed even in
+Thailand (Siamwalla 1992). The same applies to other areas including Africa where it is reported that contract
+farming organized by government agencies is usually inefficient (Jaffe and Morton 1995, pp.94-107).
+26
+leasehold tenancy with rent fixed at the rate of 25 percent of average harvest for three normal
+years preceding the Operation: second, "Operation Land Transfer," which transfers land
+ownership to tenants. In the latter operation, the government expropriates land in excess of
+landlords' retention limit (75 hectares) with compensating landlords with 10 percent of the
+land value in cash and with the rest in interest-free redeemable Land Bank bonds. The land is
+resold to the tenants for annual amortization payments within 25 years. The Code was
+amended in 1971 under President Marcos to extend land reform to the whole nation, with
+automatic conversion of all share tenants to leaseholders. The 1971 Code was enforced by
+Presidential Decree No. 2 and No. 27 under the Martial Law proclaimed in 1972. The
+landlord's retention limit was reduced successively fromn 75 to 7 hectares. The period of
+amortization payments was shortened to 15 years. It is easy to enumerate the shortcomings of
+the land reform programs in the Philippines. Yet, there is no denying that large haciendas in
+Central Luzon were broken down and that most tenants established their status as leaseholders
+or amortizing owners, though sizable areas remain under landlords' direct administration.
+It is clear that the beneficiaries of land reform has captured a large economic surplus
+because rice yields increased significantly due to irrigation development and application of
+new varieties and fertilizers, while rent and amortization payments have been fixed. Thus, the
+land reform has been successful in transferring much of the economic return to land from
+absentee landlords to ex-sharecroppers. On the other hand, it has created serious income
+inequality within village communities because no gain lhas accrued to landless laborers whose
+income has not risen or even declined because the strong population pressure on land
+prevented their wages from rising despite agricultural productivity increases.
+The regulatory nature of reform programs that were applied in a discriminatory manner to a
+certain sector of agriculture resulted in major distortions in resource allocations. Limiting
+program application so far mainly to tenanted land created a strong incentive for landlords to
+evict their tenants and cultivate their land directly. However, labor inputs and, hence,
+agricultural output and labor income per hectare are usually higher in small family farms than
+in large farms based on hired labor because of the inherent difficulty of supervising wage
+laborers in farm operations. Therefore, the exemption of land under landlords' direct
+administration had the effect of reducing labor input per hectare below an optimum level,
+27
+thereby reducing the income of labor population.
+Equally serious were the regulations on tenancy contracts (especially, the prohibition of
+share tenancy and the control of land rent) that reduced the incentive of large landholders to
+rent out their land in small parcels, resulting in a reduction in social product and labor income.
+This behavior applied not only to landlords but also to land reform beneficiaries. As the
+income of former sharecroppers, who were converted into leaseholders or amortizing owners,
+rose significantly, many of them retreated from arduous farm work leaving it to landless
+laborers. Yet, they hesitate to sub-rent their holdings to landless laborers, because their formal
+titles based on land reforn laws shall be transferred to sub-lessees if the sub-lessees would
+prove to the agrarian reform office that they are actual tillers of the land. Thus, land reform
+beneficiaries have to continue to cultivate their holding based on hired labor, even if they are
+not able to work because of sickness, old age or engaging in non-farm activities. Inefficient
+combinations between land and labor inevitably resulted.
+Negative effects of land reform on agricultural production efficiency were also significant
+outside the rice and corn sector. Although the cash crop sector has not been covered by reform
+programs (the Comprehensive Agrarian Reform Law of 1988 intended to cover the cash crop
+sector but not practically implemented), the fear has prevailed among plantation owners about
+eventual expropriation of their land. It is only natural that they have stopped investing to
+improve their land infrastructure including planting/replanting of trees. Some landowners has
+even preferred to keep their land idle rather than using them for agricultural production. This
+was often the case in frontier regions like Mindanao, which might underlie, to a significant
+extent, the low rate of expansion in cropland area in the Philippines as compared to Thailand
+(Table 1). The poor performance of the Philippines in competition for world export market
+(Table 4), was clearly rooted in this great future uncertainty to the planters of tropical cash
+crops concerning the future course of land reform.
+6. Conclusion
+In this paper, I have tried to develop a broad perspective on the process by which different
+agrarian structures developed in Indonesia, the Philippines and Thailand along different
+28
+historical paths under different ecological conditions. Dlevelopment of the three economies
+from the late nineteenth to the early twentieth century followed a typical pattern along the"
+vent-for-surplus theory ", which was based on the exploitation of unused natural resources
+corresponding to their integration into the world marke-t. The resource basis of vent-for-
+surplus development in Thailand representing the continental part of Southeast Asia was the
+major delta of Chao Phraya River, and that of Indonesia and the Philippines in the insular part
+was tropical rain forest. This difference in the resource base underlay the major difference in
+farm-size distribution - the unimodal distribution of peasants or family farms in Thailand as
+compared with the coexistence of peasants and large estate farms or plantations specializing
+in tropical export crops in Indonesia and the Philippines.
+Further, different land policies, especially with respect to preemption of unused land by the
+elite, under different political regimes resulted in major differences in the pattern of land
+ownership. The preemption was wholesale in the Philippines under Spanish colonialism,
+providing a basis of the highly skewed land distribution characterized by the bifurcation
+between non-cultivating landlords and sharecroppers in lowland rice areas and between
+plantation owners and wage laborers in upland areas. In Indonesia, the preemption took place
+as the Dutch colonial government granted long-term lease of uncultivated public land for
+foreign planters. However, the government tried to prevent alienation of cultivated land from
+native peasants in order to avoid social instability. As a result the peasant sector continued to
+consist mainly of landlord-cum-owner and owner-cum-tenant cultivators, while both non-
+cultivating landlords and the pure landless remained a minority. In Thailand also, the
+preemption occurred through the grant of concessions f-or private canal building. However, the
+incidence of tenancy did not become serious, because the government of the independent
+kingdom preserved the traditional institution of giving land to anyone who could open and
+cultivate it. The rural sector of Thailand continued to be dominated by relatively
+homogeneous land-owning peasants.
+It appears that such major differences in the agrarian structure are a significant factor
+underlying differences in the agricultural growth performance across the three economies in
+recent years. As frontiers for opening new land for cultivation were progressively closed, the
+initial advantage of the plantation system in large-scale land development including
+29
+infrastructure began to be out-weighed by its disadvantage in monitoring hired labor, and the
+advantage of the peasant system based on family labor needing no supervision to rise. This
+tendency seems to be manifested in the growing shares of Thailand in the world exports of
+tropical cash crops in recent years, in which Indonesia and the Philippines used to have
+traditional comparative advantage. Furthermore, the programs of land reforrn in the
+Philippines that were called for reducing inequality in the distribution of land ownership have
+made land markets inactive, resulting in major distortions in resource allocations and serious
+under-investment in agriculture.
+Of course, there are many factors other than agrarian structure, which would have
+contributed to the differential performances of agriculture. For example, one factor commonly
+cited to explain the poor growth performance of Philippine agriculture is the prolonged
+continuation of industrial protection policy geared for import substitution. Under this policy
+regime the agricultural sector was penalized by high tariffs on manufactured commodities and
+overvalued exchange rates (Ariff and Hill 1985; Bautista 1987). Other obvious factors
+include state trade monopoly on sugar and coconut products heavily tinted with cronyism in
+the late stage of the Marcos regime(Hayami, Quisumbing, Adriano 1990, pp.1 15-6), and the
+political instability in the 1980s from the downfall of the Marcos administration throughout
+the succeeding Aquino regime that discouraged both domestic and foreign investments.
+However, these factors may not be independent of the agrarian structure. For example, Hara
+(1994, pp.370-72) advanced a hypothesis on the reason why the import-substitution-
+industrialization was pursued more strongly for a longer period in the Philippines than the
+other ASEAN economies. He argued that in the Philippines the business elite who benefited
+from industrial protection originated from the landed oligarch and, therefore, little
+countervailing power was mobilized against industrial protection policy. In contrast, the rural
+countervailing power was comparatively high in Indonesia, Malaysia and Thailand, because
+the urban business elite were predominantly ethnic Chinese.
+Similarly, current policy choice may be significantly conditioned by the historical path in
+the formation of agrarian structure. For example, remarkable success in the Green Revolution
+in Indonesia underlying the highest growth of land productivity among the three economies
+30
+under study for the past three decades was, to a large extent, based on the Suharto
+administration's strong supports on the rice sector through investment in irrigation,
+agricultural research, and extension plus subsidies on inputs and credits. These supports were
+effective in overcoming the "Dutch disease effects" that seriotusly damaged agriculture in
+some oil-producing countries such as Nigeria in the 1970s to the early 1980s (Hayami 1997,
+pp.101-02). It does not appear that Suharto's policy choice was independent of the tradition
+in Indonesia since long before its independence to protect peasants as the stabilizing block of
+society.
+As it stands now, such political-economy theorizing is no more than mere conjecture. Yet,
+the agrarian structure of a nation that has been created along a unique historical path under a
+unique ecological condition should have a far-reaching influence on the value system in its
+society and the organization of its political economy and, hence, on policy choice. The
+positive analysis into the relationship between the historically-determined agrarian structures
+and the current courses of political economy remains to be the major challenge in future
+research.
+31
+REFERENCES
+Akiyama, T. and Nishio, A. (1996). Indonesia s Cocoa Boom. Hands-Off Policy Encourages
+Smallholder Dynamism. Washington DC: Policy Research Working Paper 1580, The World
+Bank.
+Ariff, M. and Hill, H. (1985). Export-Oriented Industrialization: The ASEAN Experience.
+Sydney: Allen and Unwin.
+Baldwin, R.E. (1956). "Patterns of Development in Newly Settled Regions." Manchester School
+of Economics and Social Studies. 24 (May): 161-79.
+Barlow, C. and Tomich, T.P. (1991). "Indonesian Agricultural Development: The Awkward Case of
+Smallholder Tree Crops." Bulletin of Indonesian Economic Studies 27 (Dec): 29-53
+Bautista, R. M. (1987). Production Incentive in Philippine Agriculture: Effects of Trade and
+Exchange Rate Policies. Washington, D.C.: International Food Policy Research
+Institute.
+Beckford,G.L.(1972). Persistent Poverty: Underdevelopment in Plantation Economies in the Third World.
+New York: Oxford University Press.
+Binswanger, H.P. and Rosenzweig (1986). "Behavioral and Material Determinants of
+Production Relations in Agriculture." Journal of Develoment. Studies 22-23 (April): 503-39
+Booth, A. (1988). Agricultural Development in Indonesia. Sydney: Allen & Unwin
+Brewster, J.M. (1950). "The Machine Process in Agriculture and Industry." Journal of Farm Economics
+32 (February): 69-81.
+Boserup, E. (1965). The Conditions ofAgricultural Growth. London: Allen and Unwin
+Evenson,R.E. (1976). "International Transmission of Technology in the Production of Sugarcane," Journal
+of Development Studies 12 (January): 208-31.
+Feeny, D. (1982). The Political Economy ofAgricultural Productivity: ThaiAgricultural
+Development, 1880-1975. Vancouver: University of British Colombia Press.
+Feeny, D. (1999). "Thailand and Japan: Why was Japan First?" in The Institutional Foundations East
+Asian Economic Development. Y Hayami and M. Aoki, eds., London: Macmillan, pp.413-42
+Fumivall, J.S. (1944). Netherlands India: A Study of Plural Economy. Cambridge UK:
+Carnbridge University Press.
+Fumivall, J.S. (1948). Colonial Policy and Practice: A Comparative Study of Burma and
+Netherlands India. Cambridge, U.K.: Cambridge University Press.
+Hara, Y. (1994). Tonan Ajia Shokoku no Keizai Hatten (Economic Development of Southeast
+Asian Countries). Tokyo: Institute of Oriental Culture, University of Tokyo.
+Hayami, Y. (1994) "Peasant and Plantation in Asia," in From Classical Economics to
+Development Economics. G.M. Meier, ed. New York: St Martin's Press.
+32
+Hayami, Y. (1996). "The Peasant in Economic Modernization." American Journal of
+Agricultural Economics 78 (December): 1157-67.
+Hayami, Y. (1997). Development Economics: From the Poverty to the Wealth of Nations, Oxford:
+Oxford University Press.
+Hayami, Y. and Kikuchi, M. (1981). Asian Vllage Economy at the Crossroads. Tokyo:
+University of Tokyo Press and Baltimore: Johns Hopkins University Press.
+Hayami, Y. and Otsuka, K. (1993). The Economics of Contract (Choice. New York.
+St. Martin's Press.
+Hayami, Y. and Ruttan, V.W. (1985). Agricultural Development: an International Perspective,
+Revised ed. Baltimore: Johns Hopkins University Press.
+Hayami, Y., Quisumbing, M.A. and Adriano, L.S. (1990). Toward an Alternative Land Reform Paradigm:
+A Philippine Perspective. Quezon City, Philippines: Ateneo de Manila
+University Press.
+Hesters, E.D. and Mabun, P. (1924). "Some Economic and Social Aspects of Philippine
+Tenancies." Philippine Agriculturist 12 (February): 367-444..
+Huke, R.E. and Huke, E.H. (1997) Rice Area by Type of Culture. South, Southeast, and East Asia , A
+revised and updated data base. Manila: International Rice Research Institute.
+Ingram, J.C. (1971). Economic Change in Thailand, 1850-1970. Stanford: Stanford
+Stanford University Press.
+Jaffee, S. and Morton, J. (1995). Marketing Africas High-Value Foods. Dubuque,IA:Kendall/Hunt
+Publishing Co.
+Larkin, J.S. (1972). The Pampangans: Colonial Society in a Philippine Province. Berkeley:
+University of California Press.
+Lamb, G. and Muller, L. (1982), Control Accountability, and Incentives in a successful Development
+Institution: The Kenya Tea Development Authority. YWlashington DC: World Bank
+Lewis, W.A., ed. (1969). Tropical Development, 1880-1913:Studies in Economic Progress.. London: Allen
+and
+Unwin.
+McCoy, A.W. (1982). "A Queen Dies Slowly: The Rise and Decline of Iloilo City," in Philippine Social
+History: Global Trade and Local Transformation. A.I). McCoy,
+ed., Quezon City: Ateneo de Manila University Press, pp. 2917-359.
+McLennan, M.S. (1969). "Land and Tenancy in the Central Luzon Plain." Philippine Studies
+17 (October): 651-82.
+Myint, H. (1965). The Economics of Developing Countries. New York: Praeger.
+Myint, H. (1971). Economic Theory and Underdeveloped Countries. Nslew York: Oxford
+University Press.
+33
+Pelzer, K.J. (1945). Pioneer Settlement in the Asiatic Tropics. New York: American
+Geographical Society.
+Pim, A. (1946). Colonial Agricultural Production. London: Royal Institute of International
+Affairs, and New York: Oxford University Press.
+Resnick, S. A. "The Decline in Rural Industry under Export Expansion: A Comparison among
+Burma, Philippines and Thailand, 1870-1938." Journal of Economic.History 30 (March 1970):
+51-73
+Siamwalla,A. (1992). "Myths, Demons and the Future of Thai Agriculture," Paper presented at Year-end
+Conference on Thailands Economic structure. Toward Balanced Development.
+Bangkok:Thailand Development research Institute.
+Takaya, K. (1985). Tonan Ajia no Shizen to Tochiriyo (Nature and Land Use in Southeast
+Asia). Tokyo: Keiso Shobo.
+Wickizer, V.D. (1951). Coffee, Tea, and Cocoa: An Economic and Political Analysis. Stanford
+CA: Stanford University Press.
+Wickizer, V.D. (1960). "The Smallholder in Tropical Export Crop Production." Food Research Institute
+Studies 1 (February): 49-99.
+World Bank (1993). The East Asian Miracle. Oxford: Oxford University Press.
+34
+Table 1. Land endowments for agricultural production in Inodonesia, Philippines, and Thailand, 1965-96.
+Indonesia Philippines
+1965 1996 1996/65 1965 1996 1996/65 1965
+ratio ratio
+No. of farm workers (1000)a 29006 47713 1.64 7363 12128 1.65 1245(
+Croplandb:
+Total (0OOha) 26000 30987 1.19 6660 9520 1.42 1260f
+Per capita (ha) 0.24 0.15 0.63 0.21 0.14 0.67 0.4-
+Per farm worker (ha) 0.90 0.65 0.72 0.90 0.78 0.87 1.0
+Pecentage of cropland (%):
+Lowland paddyfieldc n.a. 27 n.a. n.a. 32 n.a. n.a
+Upland annual crop landd n.a. 31 n.a. n.a. 22 n.a. n.a
+Land under permanent crop 31 42 1.35 38 46 1.21 l-
+a Economically active population
+'Arable land area plus area under permanent crop
+C Lowland paddyfield areas pertain to 1995 in Indonesia, 1991 in the Philippines and 1993 in Thailand.
+d Arabte land area minus lowland paddyfield area
+Source: FAOSTAT data base except for lowland paddyfield areas which are taken from Indonesian
+Statistical Yearbook 1996 for Indonesia (8,484,000 ha in 1995), Philippine Statistical Yearbook 1998
+for the Philippines (3,001,000 ha in 1991) and Agricultural S,tatistics 1995/96 for Thailand (10,934,000
+ha in 1993).
+35
+Table 2: The distribution of operational farm size and the incidence of agricultural tenancy in Indonesia,
+Philippines and Thailand.
+Indonesia Philippines Thailand
+Year of survey 1973 1971 1978
+Average operational farm size (ha) 1.1 3.6 3.7
+Percentage of farms and farmland
+Below 5 ha:
+Farms 98 85 72
+Land area 69 48 39
+Above 5 ha:
+Farms Oa 0.2 oa
+Land area 14 14 0.9
+Gini coefficient of land concentration 0.56 0.51 0.45
+Percentage of tenanted area in total farmland
+Pure tenancy 2 21 6
+Totalb 24 33 16
+Percentage of share tenancy in tenanted land 60 79 29
+a. Less than 0.05 percent
+b. Area in pure tenancy farms plus area in owner-cum-tenant farms.
+Source: Hayami and Otsuka (1993, pp. 10-11) based mainly on UN-FAO, 1970 Worid Census of Agriculture:
+Analysis and Comparison of the Results, Rome, 1971.
+36
+Tabie 3. Growth of agricultural production om Indonesia, Philippines, and Thailand, 1961-95.
+Growth rate (%/year)
+Index 1961-65 to 1976-80 to 1961-65 to
+1961-65 1976-80 1991-95 1976-80 1991-95 1991-95
+Indonesia
+Total 100 157 309 3.0 4.5 3.8
+Per capita 100 111 165 0.7 2.6 1.7
+Per farm worker 100 138 232 2.1 3.5 2.8
+Per haa 100 157 263 3.0 3.4 3.2
+Philippines
+Total 100 177 239 3.8 2.0 2.9
+Per capita 100 116 111 1.0 -0.3 0.3
+Perfarm worker 100 134 156 2.0 1.0 1.5
+Per haa 100 137 165 2.1 1.2 1.7
+Tha land
+Total 100 190 277 4.3 2.5 3.4
+Per capita 100 123 140 1.4 0.9 1.1
+Per farm worker 100 145 199 2.5 2.1 2.3
+Per haa 100 129 163 1.7 1.6 1.6
+a per hectare of cropland ( arable land plus land under permanent crop)
+Source: FAOSTAT database
+37
+Table 4: Shares of net exports in world total export value of selected agricultural commodities in
+Indonesia, Philippines, and Thailand, 1961-1995.
+Share in world market
+1961-65 1976-80 1991-95
+Rice
+Indonesia -11.0 -17.6 -3.5
+Philippines -3.1 0.5 -0.3
+Thailand 19.4 18.7 26.1
+Maize
+Indonesia -0.1 -0.1 -0.8
+Philippines 0 -0.2 -0.1
+Thailand 3.6 2.9 0.3
+Sugara
+Indonesia 0.3 -1.4 -1.1
+Philippines 7.3 4.0 0.6
+Thailand 0.2 2.7 6.9
+Coffeeb
+Indonesia 1.0 4.5 4.9
+Philippines 0 0.3 0
+Thailand -0.1 0 0.8
+Coconut Oil
+Indonesia 0 -1.0 15.8
+Philippines 39.8 69.4 60.4
+Thailand -0.1 -0.2 0
+Palm Oil
+Indonesia 17.8 14.5 13.9
+Philippines -0.9 -0.1 -0.1
+Thailand 0 -0.6 0
+Rubber
+Indonesia 23.3 23.7 27.9
+Philippines -0.3 0.1 0.3
+Thailand 8.8 12.9 32.6
+Pineapplec
+Indonesia 0 0 7.8
+Philippines 12.9 20.7 15.0
+Thailand 0 16.9 45.9
+Banana
+Indonesia 0 0 0.1
+Philippines 0 8.0 5.4
+Thailand 0.1 0.1 0
+a Sugar raw equivalent
+b Coffee green and roast
+c Canned pineapple
+Source: FAOSTAT database.
+38
+Policy Research Workcing FPaper Series
+Contact
+Title Author Date for paper
+WPS2277 Determinants of Bulgarian Brady Nina Budina January 2000 N. Budina
+Bond Prices: An Empirical Tzvetan Mantchev 82045
+Assessment
+WPS2278 Liquidity Constraints and Investment Nina Budina January 2000 N. Budina
+in Transition Economies: The Case Harry Garretsen 82045
+of Bulgaria
+WPS2279 Broad Roads in a Thin Country: Andres G6mez-Lobo January 2000 G. Chenet-Smith
+infrastructure Concessions in Chile Sergio Hinojosa 36370
+WPS2280 Willingness to Pay for Air Quality Hua Wang January 2000 R. Yazigi
+Improvements in Sofia, Bulgaria Dale Whittington 37176
+WPS2281 External Sustainability: A Stock Cesar Caider6rn January 2000 H. Vargas
+Equilibrium Perspective Norman Loayza 38546
+WPS2282 Managing Fiscal Risk in Bulgaria Hana Polackova Brixi January 2000 L. Zlaoui
+Sergei Shatalov 33100
+Leila Zlaoui
+WPS2283 New Tools and New Tests in Thorsten Beck February 2000 P. Sintim-Aboagye
+Comparative Political Economy: George Clarke 38526
+The Database of Political Institutions Alberto Groff
+Philip Keefer
+Patrick Walsh
+WPS2284 The Use of Asset Management Daniela Klingebiel February 2000 R. Vo
+Companies in the Resolution of 33722
+Banking Crises: Cross-Country
+Experience
+WPS2285 Industrial Environmental Performance Susmita Dasgupta February 2000 Y. D'Souza
+in China: The Impacts of Inspections Benoit Laplante 31449
+Niandu Mamingi
+Hua Wang
+WPS2286 Transparency, Liberalization, Gil Mehrez February 2000 D. Bouvet
+and Banking Crises Daniel Kaufmann 35818
+WPS2287 The Vicious Circles of Control: Raj M. Desai February 2000 S. Cox
+Regional Governments and Insiders Itzhak Goldberg 36633
+in Privatized Russian Enterprises
+WPS2288 Ten Years of Transformation: Charles Wyplosz February 2000 M. Jandu
+Macroeconomic Lessons 33103
+Policy Research Working Paper Series
+Contact
+Title Author Date for paper
+WPS2289 Exchange Rate Overvaluation and Howard J. Shatz February 2000 L. Tabada
+and Trade Protection: Lessons David G. Tarr 36896
+from Experience
+WPS2290 Decentralization and Corruption: Raymond Fisman February 2000 E. Khine
+Evidence across Countries Roberta Gatti 37471
+WPS2291 Incentives for Pollution Control: Jerome Foulon February 2000 Y. D'Souza
+Regulation and Public Disclosure Paul Lanoie 31449
+Benoit Laplante
+WPS2292 Dividing the Spoils: Pensions, Ethan B. Kapstein March 2000 P. Sader
+Privatization, and Reform Branko Milanovic 33902
+in Russia's Transition
+WPS2293 Should Capital Flows be Regulated? Roumeen Islam March 2000 R. Islam
+A Look at the Issues and Policies 32628
+WPS2294 Reforming the Urban Water System Mary M. Shirley March 2000 P. Sintim-Aboagye
+in Santiago, Chile L. Colin Xu 38526
+Ana Maria Zuluaga
+WPS2295 Resolving Bank Failures in Argentina: Agusto de la Torre March 2000 M. De Loayza
+Recent Developments and Issues 38902
