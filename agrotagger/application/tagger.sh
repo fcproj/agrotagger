@@ -18,7 +18,7 @@
 # ###########################################################################################################################
 # Optional sixth and seventh parameters: new_agrovoc_name; model_name (the fifth parameter "output_filename" can be null)
 # new_agrovoc_name and model_name are used to tell MAUI which vocabulary has to be used to index resources. If names are not correct (i.e. the model and the voabulary are not in the application) the application stops.
-# See the online documentation to know how to build a new model 
+# See the online documentation to know how to build a new model https://github.com/agrisfao/agrotagger/wiki/How-to-use-an-updated-AGROVOC-thesaurus
 # Usage: ./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt myoutput new_agrovoc_name my_model
 #  java -classpath ".:../lib/*" org.fao.oekc.autotagger.main.DownloadFiles ../work/test/crawler_result.txt ../work/output listURL
 #  java -classpath ".:../lib/*" org.fao.oekc.autotagger.main.MauiAutoTaggerKey ../work/output new_agrovoc_name my_model
