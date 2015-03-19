@@ -1,5 +1,6 @@
 #!/bin/sh
 # Read a directory with many input files. Four mandatory parameters. Two optional parameters.
+# The boolean flag to avoid the extraction of titles (DownloadFiles) is no considered, but it is set to true by default, so titles are always extracted by this script
 #
 # Mandatory parameters: input_directory_path; output_directory; download_mode; output_type
 # Usage: ./taggerDir.sh data/sources/ data/documents nutchOutput rdfnt
