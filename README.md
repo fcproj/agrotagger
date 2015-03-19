@@ -5,6 +5,8 @@ The AgroTagger allows to index Web documents identifying main topics and creatin
 
 Web documents to be indexed can be passed to the application through a file containing a list of URLs, or through a file containing the output of an Apache Nutch Web Crawler.
 
+The output of the AgroTagger is an RDF NTRIPLE file (zipped in a tar.gz archive), which mainly contains the "dcterms:subject" predicate. Other predicates can be activated using boolean flags. An example of the output RDF file is available in the [RDF] (https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.
+
 The application is a Java application based on three sub-application to be executed sequentially. Some bash scripts are provided to execute the application on a Unix environment. Information about Java sub-applications and examples of usage are available in the [Java Applications](https://github.com/agrisfao/agrotagger/wiki/Java-Applications) page.
 
 Some information about the folders in the code:
