@@ -1,4 +1,4 @@
 URL:: http:/
-URL:: http://131.220.45.179/ojs/index.php/fsd
+URL:: http://blogs.scientificamerican.com/science-sushi/2011/07/18/mythbusting-101-organic-farming-conventional-agriculture/
   outlink: toUrl: http://131.220.45.179/ojs/index.php/fsd/information/readers anchor: For Readers
-URL:: http://2010.morris.umn.edu/docs/UMM_Historic_Preservation_Plan.pdf
+URL:: http://www.eje.cz/pdfs/eje/2008/04/01.pdf

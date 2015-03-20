@@ -8,6 +8,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Map;
 
+import jfcutils.util.StringUtils;
+
 import org.fao.oekc.autotagger.main.executor.DownloadConvertRunnable;
 
 /**
@@ -44,7 +46,9 @@ public class HTMLConverter {
 				}	
 				//check description availability
 				String docDesc = this.extractHTMLDescription(sb.toString());
-				if(docDesc!=null){
+				if(docDesc!=null && docDesc.trim().length()>0){
+					docDesc = (new StringUtils()).trimLeft(docDesc);
+					docDesc = (new StringUtils()).trimRight(docDesc);
 					DownloadConvertRunnable.addDescriptionToMap(url2description, url, docDesc);
 				}
 			}
