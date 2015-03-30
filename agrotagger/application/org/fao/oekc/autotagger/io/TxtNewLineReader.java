@@ -9,6 +9,8 @@ import java.util.Map;
 import java.util.Scanner;
 import java.util.Set;
 
+import jfcutils.util.StringUtils;
+
 /**
  * Parse a text file whose lines have been grouped by new line and each group ends with a "@" line.
  * The key of each group is the first line
@@ -32,7 +34,9 @@ public class TxtNewLineReader {
 	      //first use a Scanner to get each line
 	      while (scanner.hasNextLine()){
 	        String line = scanner.nextLine();
-	        if(!line.startsWith("#")){
+	        if(line!=null && !line.startsWith("#")){
+	        	line = (new StringUtils()).trimLeft(line);
+	        	line = (new StringUtils()).trimRight(line);
 	        	result.add(line);
 	        }
 	      }
@@ -63,7 +67,8 @@ public class TxtNewLineReader {
 	        String line = scanner.nextLine();
 	        if(!line.startsWith("#")){
 	        	String[] mapping = line.split("=");
-	        	result.put(mapping[0], mapping[1]);
+	        	if(mapping.length==2)
+	        		result.put(mapping[0], mapping[1]);
 	        }
 	      }
 	    }
@@ -131,6 +136,9 @@ public class TxtNewLineReader {
 	        		int anchorIndex = line.indexOf("anchor:");
 	        		if(anchorIndex!=-1)
 	        			line = line.substring(0, anchorIndex);
+	        		//trim
+	        		line = (new StringUtils()).trimLeft(line);
+		        	line = (new StringUtils()).trimRight(line);
 	        		result.add(line);
 	        	} 	
 	        }

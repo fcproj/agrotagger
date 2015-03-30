@@ -9,6 +9,8 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import jfcutils.util.StringUtils;
+
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.pdmodel.PDDocumentInformation;
 import org.apache.pdfbox.util.PDFTextStripper;
@@ -20,7 +22,7 @@ import org.fao.oekc.autotagger.main.executor.DownloadConvertRunnable;
  *
  */
 public class PDFConverter {
-	
+
 	private final static Logger log = Logger.getLogger(PDFConverter.class.getName());
 
 	//to convert to TXT
@@ -55,14 +57,20 @@ public class PDFConverter {
 					//check title availability
 					String doctitle = docInfo.getTitle();
 					if(doctitle!=null){
-						DownloadConvertRunnable.addTitleToMap(url2doctitle, url, doctitle);
+						doctitle = (new StringUtils()).trimLeft(doctitle);
+						doctitle = (new StringUtils()).trimRight(doctitle);
+						if(doctitle.length()>3)
+							DownloadConvertRunnable.addTitleToMap(url2doctitle, url, doctitle);
 					}
 					//check description availability
 					String docDesc = docInfo.getKeywords();
 					if(docDesc==null)
 						docDesc = docInfo.getSubject();
 					if(docDesc!=null){
-						DownloadConvertRunnable.addDescriptionToMap(url2description, url, docDesc);
+						docDesc = (new StringUtils()).trimLeft(docDesc);
+						docDesc = (new StringUtils()).trimRight(docDesc);
+						if(docDesc.length()>3)
+							DownloadConvertRunnable.addDescriptionToMap(url2description, url, docDesc);
 					}
 				}
 
@@ -103,7 +111,7 @@ public class PDFConverter {
 					//System.out.println(e.getMessage());
 				}
 			} 
-			log.log(Level.INFO, "		++ Converted: "+filePath+" and removed PDF");
+			log.log(Level.INFO, "\t\t++ Converted: "+filePath+" and removed PDF");
 		}
 	}
 

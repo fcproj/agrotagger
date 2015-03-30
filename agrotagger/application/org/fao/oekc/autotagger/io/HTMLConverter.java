@@ -42,14 +42,18 @@ public class HTMLConverter {
 			if(extractTitles) {
 				String doctitle = this.extractHTMLTitle(sb.toString());
 				if(doctitle!=null){
-					DownloadConvertRunnable.addTitleToMap(url2doctitle, url, doctitle);
+					doctitle = (new StringUtils()).trimLeft(doctitle);
+					doctitle = (new StringUtils()).trimRight(doctitle);
+					if(doctitle.length()>3)
+						DownloadConvertRunnable.addTitleToMap(url2doctitle, url, doctitle);
 				}	
 				//check description availability
 				String docDesc = this.extractHTMLDescription(sb.toString());
 				if(docDesc!=null && docDesc.trim().length()>0){
 					docDesc = (new StringUtils()).trimLeft(docDesc);
 					docDesc = (new StringUtils()).trimRight(docDesc);
-					DownloadConvertRunnable.addDescriptionToMap(url2description, url, docDesc);
+					if(docDesc.length()>3)
+						DownloadConvertRunnable.addDescriptionToMap(url2description, url, docDesc);
 				}
 			}
 			String nohtml = sb.toString().replaceAll("\\<.*?>","");
@@ -64,25 +68,25 @@ public class HTMLConverter {
 			BufferedWriter out = new BufferedWriter(new FileWriter(filePath));
 			out.write(nohtml);
 			out.close();
-			
+
 		} catch(IOException e) {
 			System.out.println(e.getMessage());
 			e.printStackTrace();
 		}
 	}
-	
+
 	/*
 	 * Apply REGEX to extract HTML title
 	 */
 	private String extractHTMLTitle(String content){
 		String title = null;
 		int start = content.indexOf("<title>");
-        int end = content.indexOf("</title>");
-        if(start!=-1 && end!=-1 && (start+7)<end && end<content.length())
-        		title = content.substring(start+7, end);
+		int end = content.indexOf("</title>");
+		if(start!=-1 && end!=-1 && (start+7)<end && end<content.length())
+			title = content.substring(start+7, end);
 		return title;
 	}
-	
+
 	/*
 	 * Apply REGEX to extract HTML description
 	 */
