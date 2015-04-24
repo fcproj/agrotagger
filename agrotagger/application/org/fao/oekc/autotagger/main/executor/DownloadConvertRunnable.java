@@ -62,7 +62,7 @@ public class DownloadConvertRunnable implements Callable<String> {
 			log.log(Level.INFO, "+ Start downloading: "+url);
 			//create connection, setting a timeout to 5s
 			URLConnection urlConn = new URL(url).openConnection();
-			urlConn.setReadTimeout(5*1000);
+			urlConn.setReadTimeout(50*1000);
 
 			BufferedInputStream in = new BufferedInputStream(urlConn.getInputStream()); 
 			String outputFile = outputDirectory+"/"+fileName;
@@ -78,10 +78,10 @@ public class DownloadConvertRunnable implements Callable<String> {
 				(new HTMLConverter()).removeHTMLTags(outputFile, true, this.url, this.url2doctitle, this.url2description, this.extractTitles);
 		}
 		catch(IOException e){
-			//System.out.println(e.getMessage());
+			log.log(Level.WARNING, e.getMessage());
 		}
 		catch(Exception e){
-			//System.out.println(e.getMessage());
+			log.log(Level.WARNING, e.getMessage());
 		}
 		return Thread.currentThread().getName();
 	}
@@ -100,12 +100,12 @@ public class DownloadConvertRunnable implements Callable<String> {
 			}
 			bout.close();
 		} catch (Exception e){
-			//System.out.println(e.getMessage());
+			System.out.println(e.getMessage());
 		} finally {	
 			try {
 				in.close();
 			} catch (IOException e) {
-				//System.out.println(e.getMessage());
+				System.out.println(e.getMessage());
 			}
 		}
 		log.log(Level.INFO, "  ++ Downloaded: "+outputFile);
