@@ -1,4 +1,22 @@
-This is tha Java code, together with some the bash scripts to run the agrotagger. Simply use the scripts in the "application" directory:
+This is tha Java code, together with some the bash scripts to run the agrotagger. 
+
+## SIGNATURE  
+  
+**Input Parameters**
+•	INPUT_TXT_LOCATION: the path to the text file containing the list of URLs to be indexed, or the output of Apache Nutch Crawler
+•	OUTPUT_DIR: the output directory where the AgroTagger will store results
+•	DOWNLOAD_MODE: currently “listURL” if the source file contains a list of URLs, or “nutchOutput” if the source file is or the output of Apache Nutch Crawler
+•	OUTPUT_FORMAT (currently only “rdfnt”)
+•	(Optional) OUTPUT_FILENAME: with or without extension
+•	(Optional. The default is TRUE) EXTRAT_TITLES: a boolean flag to extract not only AGROVCO URIs, but also other metadata (titles, and free keywords), from the HTML or PDF metadata
+  
+**Output**
+•	A TAR.GZ file containing the RDFNT produced (with only dct:subject if EXTRAT_TITLES was set to false)
+
+
+##SCRIPTS  
+
+Simply use the scripts in the "application" directory:
 
 **tagger.sh**  
 It needs 4 mandatory parameters: the path to a file with a list of URLs (or the output of a webcrawler), the path to the output directory where to store results, the type of the input file ("listURL" or "nutchOutput"), and the type of the output (currently only "rdfnt" is supported).  
