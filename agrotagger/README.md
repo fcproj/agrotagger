@@ -13,7 +13,7 @@ This is tha Java code, together with some the bash scripts to run the agrotagger
   
 **Output**  
   
-1. A TAR.GZ file containing the RDFNT produced (with only dct:subject if EXTRAT_TITLES was set to false)
+1. A TAR.GZ file containing the RDFNT produced (An example of the output RDF file is available in the [RDF] (https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
 
 
 ##SCRIPTS  
