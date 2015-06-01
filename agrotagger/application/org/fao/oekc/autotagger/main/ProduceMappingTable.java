@@ -30,8 +30,10 @@ public class ProduceMappingTable {
 
 	private final static Logger log = Logger.getLogger(ProduceMappingTable.class.getName());
 
-	//limit for output files
+	//TODO limit for output files
 	private final static int _maximunNumberTriplesPerFile = 100000;
+	//TODO RDF type
+	private final static String _rdfType = "<http://semagrow.eu/rdf#CrawledDocument>";
 
 	//suffix for the output file, depending on the used algorithm
 	private final static String _outputSuffix = ".tar.gz";
@@ -154,6 +156,8 @@ public class ProduceMappingTable {
 						if(uri!=null) {
 							String docURL = docNames2URL.get(doc);
 							if(!docURL.contains("<") && !docURL.contains(">") && !docURL.contains("\"")){
+								//TYPE
+								triples.add("<"+docURL+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "+ProduceMappingTable._rdfType+" .");
 								//AGROVOC
 								triples.add("<"+docURL+"> <http://purl.org/dc/terms/subject> <"+uri+"> .");
 								//titles

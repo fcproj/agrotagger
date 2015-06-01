@@ -23,6 +23,9 @@ public class DownloadConvertRunnable implements Callable<String> {
 	
 	private final static Logger log = Logger.getLogger(DownloadConvertRunnable.class.getName());
 	
+	//TODO: connection timeout
+	private final static int connTimeoutMillis = 50;
+	
 	//the filename of the downloaded file
 	private String fileName;
 	//the URL of the resource to download
@@ -62,7 +65,7 @@ public class DownloadConvertRunnable implements Callable<String> {
 			log.log(Level.INFO, "+ Start downloading: "+url);
 			//create connection, setting a timeout to 5s
 			URLConnection urlConn = new URL(url).openConnection();
-			urlConn.setReadTimeout(50*1000);
+			urlConn.setReadTimeout(DownloadConvertRunnable.connTimeoutMillis*1000);
 
 			BufferedInputStream in = new BufferedInputStream(urlConn.getInputStream()); 
 			String outputFile = outputDirectory+"/"+fileName;
