@@ -155,7 +155,8 @@ public class ProduceMappingTable {
 						String uri = agrovoc2uri.get(k.toLowerCase());
 						if(uri!=null) {
 							String docURL = docNames2URL.get(doc);
-							if(!docURL.contains("<") && !docURL.contains(">") && !docURL.contains("\"")){
+							if(!docURL.contains("<") && !docURL.contains(">") && !docURL.contains("\"")
+									&& !docURL.contains("??") && !docURL.contains("(") && !docURL.contains("\n")){
 								//TYPE
 								triples.add("<"+docURL+"> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> "+ProduceMappingTable._rdfType+" .");
 								//AGROVOC
