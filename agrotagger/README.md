@@ -9,11 +9,11 @@ This is tha Java code, together with some the bash scripts to run the agrotagger
 3. DOWNLOAD_MODE: currently “listURL” if the source file contains a list of URLs, or “nutchOutput” if the source file is or the output of Apache Nutch Crawler
 4. OUTPUT_FORMAT (currently only “rdfnt” or "text")
 5. (Optional) OUTPUT_FILENAME: with or without extension
-6. (Optional. The default is TRUE) EXTRAT_TITLES: a boolean flag to extract not only AGROVCO URIs, but also other metadata (titles, and free keywords), from the HTML or PDF metadata
+6. (Optional. The default is TRUE) EXTRAT_TITLES: a boolean flag to extract not only AGROVOC URIs, but also other metadata (titles, and free keywords), from the HTML or PDF metadata
   
 **Output**  
   
-1. A TAR.GZ file containing the RDFNT produced (An example of the output RDF file is available in the [RDF] (https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
+1. A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF] (https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
 
 
 ##SCRIPTS  
