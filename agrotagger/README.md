@@ -7,7 +7,7 @@ This is tha Java code, together with some the bash scripts to run the agrotagger
 1. INPUT_TXT_LOCATION: the path to the text file containing the list of URLs to be indexed, or the output of Apache Nutch Crawler
 2. OUTPUT_DIR: the output directory where the AgroTagger will store results
 3. DOWNLOAD_MODE: currently “listURL” if the source file contains a list of URLs, or “nutchOutput” if the source file is or the output of Apache Nutch Crawler
-4. OUTPUT_FORMAT (currently only “rdfnt”)
+4. OUTPUT_FORMAT (currently only “rdfnt” or "text")
 5. (Optional) OUTPUT_FILENAME: with or without extension
 6. (Optional. The default is TRUE) EXTRAT_TITLES: a boolean flag to extract not only AGROVCO URIs, but also other metadata (titles, and free keywords), from the HTML or PDF metadata
   
