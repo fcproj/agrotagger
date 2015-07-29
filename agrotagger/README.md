@@ -12,7 +12,7 @@ The folder `executable` contains the command line application, including some ba
 #### SCRIPTS  
 
 **tagger.sh**  
-It needs 4 mandatory parameters: the path to a file with a list of URLs (or the output of a webcrawler), the path to the output directory where to store results, the type of the input file ("listURL" or "nutchOutput"), and the type of the output ("rdfnt" or "txt").  
+It needs 4 mandatory parameters: the path to a file with a list of URLs (or the output of a webcrawler), the path to the output directory where to store results, the type of the input file ("listURL" or "nutchOutput"), and the type of the output ("rdfnt" or "text").  
 Example: ``./tagger.sh data/sources/crawler_result.txt data/documents nutchOutput rdfnt``  
   
 There is also the possibility to express, as optional parameter, the name of the output file. Currently, the output file is a tar.gz file, but you don't need to define the extension, the system will automatically add the suffix .tar.gz to the filename.  
