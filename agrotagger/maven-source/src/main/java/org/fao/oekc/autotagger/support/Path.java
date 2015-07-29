@@ -1,0 +1,22 @@
+package org.fao.oekc.autotagger.support;
+
+import java.io.File;
+
+/**
+ * Specify patsh in the working directories
+ * @author celli
+ *
+ */
+public class Path {
+	
+	public static final String documentsAndKeys = File.separator + "docKeys";
+	public static final String tmpRDF = File.separator + "tmp";
+	public static final String mappingSuffix = "_mapping";
+	public static final String titlesSuffix = "_titles";
+	public static final String descriptionSuffix = "_description";
+
+	public static void main(String[] args){
+		System.out.println();
+		System.out.println(Path.documentsAndKeys);
+	}
+}
