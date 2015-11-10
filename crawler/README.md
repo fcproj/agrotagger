@@ -5,4 +5,4 @@ As an example: ``./crawler_exec.sh 5 ../work/output ../work/urls/``
 	
 - *start.sh*: a script to demonize *crawler_exec.sh*, in order to allow you to close the command line window and let the application running. It needs to be configured to change input paths.
 
-The output file of this application can be used as input for the agrotagger.
+The output file of this application can be used as input for AgroTagger.
