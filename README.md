@@ -21,7 +21,7 @@ Installation
 
 **Requirements**: *agrotagger* and the web *crawler* need at least Java 6 to work properly.
 
-The installation process simply requires to download the code. In fact, AgroTagger is a Java application based on three sub-applications to be executed sequentially. Some bash scripts are provided to execute AgroTagger on a Unix environment. Information about Java sub-applications and examples of usage are available in the [Java Applications](https://github.com/agrisfao/agrotagger/wiki/Java-Applications) page. Similarly, the web crawler is a Java application that can be executed also with bash scripts provided with the code.
+The installation process simply requires to download the code. In fact, AgroTagger is a Java application based on three sub-applications to be executed sequentially. Some bash scripts are provided to execute AgroTagger on a Unix environment. Information about Java sub-applications and examples of usage are available in the [Java Applications](https://github.com/agrisfao/agrotagger/wiki/Java-Applications) page. Similarly, the web crawler is a Java application that can be executed also with bash scripts provided with the code. Additional details are provided in the README files of the two software components.
 
 
   
