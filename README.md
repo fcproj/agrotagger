@@ -1,4 +1,4 @@
-This Github project contains two applications, which are stricly dependant:
+This Github project contains two applications, which can be used individually or in a pipeline:
 
 - *agrotagger*: the Unix application to run the AgroTagger.
 - *crawler*:  the Unix application to run a custimized version of Apache Nutch web crawler (http://nutch.apache.org/). This application can produce an input file for the AgroTagger.
