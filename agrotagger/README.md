@@ -43,9 +43,9 @@ From v1.2.1, there is the possibility to express a fifth and a sixth parameter: 
 
 > Example: ``./taggerDir.sh data/sources/ data/documents listURL myoutput newAgrovocName modelName``
   
-**Output**  
+### Output
   
-* A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF](https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
+A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF](https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
 
 ### The Maven project
 
