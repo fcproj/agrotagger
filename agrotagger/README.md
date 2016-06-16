@@ -34,6 +34,8 @@ In this last scenario, the fifth parameter (output_filename) can be null.
 
 > Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt null new_agrovoc_name my_model``
 
+The boolean flag to avoid the extraction of titles is not considered, but it is set to true by default. Thus, titles are always extracted by this script. To use the boolean flag, run [Java applications](https://github.com/fcproj/agrotagger/wiki/Java-Applications) indipendently.
+
 **taggerDir.sh**  
 It works as the previous one, but the first parameter is the path to a directory containing some input files.  
 
