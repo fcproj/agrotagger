@@ -42,21 +42,10 @@ It works as the previous one, but the first parameter is the path to a directory
 From v1.2.1, there is the possibility to express a fifth and a sixth parameter: newAgrovocName; modelName
 
 > Example: ``./taggerDir.sh data/sources/ data/documents listURL myoutput newAgrovocName modelName``
-
-#### SIGNATURE  
-  
-**Input Parameters**  
-  
-1. INPUT_TXT_LOCATION: the path to the text file containing the list of URLs to be indexed, or the output of Apache Nutch Crawler
-2. OUTPUT_DIR: the output directory where the AgroTagger will store results
-3. DOWNLOAD_MODE: currently “listURL” if the source file contains a list of URLs, or “nutchOutput” if the source file is or the output of Apache Nutch Crawler
-4. OUTPUT_FORMAT (currently only “rdfnt” or "text")
-5. (Optional) OUTPUT_FILENAME: with or without extension
-6. (Optional. The default is TRUE) EXTRAT_TITLES: a boolean flag to extract not only AGROVOC URIs, but also other metadata (titles, and free keywords), from the HTML or PDF metadata
   
 **Output**  
   
-1. A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF](https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
+* A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF](https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
 
 ### The Maven project
 
