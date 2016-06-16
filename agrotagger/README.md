@@ -12,24 +12,36 @@ The folder `executable` contains the command line application, including some ba
 #### SCRIPTS  
 
 **tagger.sh**  
-It needs 4 mandatory parameters: the path to a file with a list of URLs (or the output of a web crawler), the path to the output directory where to store results, the type of the input file ("listURL" or "nutchOutput"), and the type of the output ("rdfnt" or "text").  
-Example: ``./tagger.sh data/sources/crawler_result.txt data/documents nutchOutput rdfnt``  
+It needs 4 mandatory parameters: 
+* the path to a file with a list of URLs (or the output of a web crawler)
+* the path to the output directory where to store results
+* the type of the input file ("listURL" or "nutchOutput")
+* the type of the output ("rdfnt" or "text"). 
+
+> Example: ``./tagger.sh data/sources/crawler_result.txt data/documents nutchOutput rdfnt``  
   
 There is also the possibility to express, as optional parameter, the name of the output file. Currently, the output file is a tar.gz file, but you don't need to define the extension, the system will automatically add the suffix .tar.gz to the filename.  
-Example: ``./tagger.sh data/sources/list_urls.txt data/documents listURL rdfnt myoutput``  
+> Example: ``./tagger.sh data/sources/list_urls.txt data/documents listURL rdfnt myoutput``  
   
-From v1.2.1, there is also the possibility to specify other two optional parameters: the name of a new AGROVOC SKOS file and the name of a new MAUI model. If names are not correct (i.e. the model and the voabulary are not in the application) the application stops. See the online documentation (https://github.com/agrisfao/agrotagger/wiki/How-to-use-an-updated-AGROVOC-thesaurus) to know how to build a new model.  
-Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt myoutput new_agrovoc_name my_model``  
+From v1.2.1, there is also the possibility to specify other two optional parameters: 
+* the name of a new AGROVOC SKOS file
+* the name of a new MAUI model
+If names are not correct (i.e. the model and the voabulary are not in the application) the application stops. See the [online documentation](https://github.com/agrisfao/agrotagger/wiki/How-to-use-an-updated-AGROVOC-thesaurus) to know how to build a new model.  
+
+> Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt myoutput new_agrovoc_name my_model``  
   
 In this last scenario, the fifth parameter (output_filename) can be null.  
-Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt null new_agrovoc_name my_model``
+
+> Example: ``./tagger.sh data/sources/crawler_result.txt data/documents listURL rdfnt null new_agrovoc_name my_model``
 
 **taggerDir.sh**  
 It works as the previous one, but the first parameter is the path to a directory containing some input files.  
-Example: ``./taggerDir.sh ../work/splitted ../work/output nutchOutput rdfnt``  
+
+> Example: ``./taggerDir.sh ../work/splitted ../work/output nutchOutput rdfnt``  
   
 From v1.2.1, there is the possibility to express a fifth and a sixth parameter: newAgrovocName; modelName
-Example: ``./taggerDir.sh data/sources/ data/documents listURL myoutput newAgrovocName modelName``
+
+> Example: ``./taggerDir.sh data/sources/ data/documents listURL myoutput newAgrovocName modelName``
 
 #### SIGNATURE  
   
@@ -44,7 +56,7 @@ Example: ``./taggerDir.sh data/sources/ data/documents listURL myoutput newAgrov
   
 **Output**  
   
-1. A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF] (https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
+1. A TAR.GZ file containing the RDFNT ot TXT produced (An example of the output RDF file is available in the [RDF](https://github.com/agrisfao/agrotagger/wiki/Example-of-AgroTagger-output) page.)
 
 ### The Maven project
 
