@@ -7,7 +7,7 @@ This is the Unix application to run a custimized version of Apache Nutch Web Cra
 
 > As an example: ``./crawler_exec.sh 5 ../work/output ../work/urls/`` (note: directories must exist in the filesystem)
 	
-- *start.sh*: a script to demonize *crawler_exec.sh*, in order to allow you to close the command line window and let the application running. It needs to be configured to change paths to input and output directories.
+- *start.sh*: a script that demonizes *crawler_exec.sh*, in order to allow you to close the command line window and let the application running. It needs to be configured to change paths to input and output directories.
 
 The output file of this application can be used as input for [AgroTagger](https://github.com/fcproj/agrotagger/tree/master/agrotagger).
 
