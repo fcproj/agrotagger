@@ -57,11 +57,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>jfcutil</groupId>
-			<artifactId>org.jfcutils</artifactId>
-			<version>2.0</version>
-			<scope>system</scope>
-			<systemPath>${project.basedir}/src/main/resources/JFCUtil-2.0.jar</systemPath>
+		    <groupId>com.github.fcproj</groupId>
+		    <artifactId>JFCUtil</artifactId>
+		    <version>2.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>maui</groupId>
