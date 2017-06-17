@@ -60,4 +60,4 @@ You will find the created zip file in the directory `maven-source/target`.
 
 ### License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0). See [Legal Code](http://creativecommons.org/licenses/by/4.0/legalcode)
+GNU General Public License version 3 (GPL-3.0). See [Legal Code](https://github.com/fcproj/agrotagger/blob/master/agrotagger/LICENSE)
