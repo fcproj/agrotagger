@@ -1,7 +1,11 @@
-This Github project contains two applications, which can be used individually or in a pipeline:
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
+
+This project contains two applications, which can be used individually or in a pipeline:
 
 - *agrotagger*: the Unix application to run the AgroTagger.
 - *crawler*:  the Unix application to run a custimized version of [Apache Nutch web crawler](http://nutch.apache.org/). This application can produce an input file for the AgroTagger.
+
+This work was partially founded by the European Commission under EU FP7 project agINFRA (Grant No. 283770).
 
 AgroTagger
 ==========
