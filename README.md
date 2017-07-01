@@ -5,7 +5,7 @@ This project contains two applications, which can be used individually or in a p
 - *agrotagger*: the Unix application to run the AgroTagger.
 - *crawler*:  the Unix application to run a custimized version of [Apache Nutch web crawler](http://nutch.apache.org/). This application can produce an input file for the AgroTagger.
 
-This work was partially founded by the European Commission under EU FP7 project agINFRA (Grant No. 283770).
+This work was partially founded by the European Commission under EU FP7 project agINFRA (Grant No. 283770) and EU FP7 project SemaGrow (Grant No. 318497).
 
 AgroTagger
 ==========
